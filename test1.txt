@@ -1,0 +1,38 @@
+Hank Roberts
+
+555 Sample Street
+
+New York, NY 10001
+
+(555) 555-5555
+
+sampleresume@sample.com
+
+Summary
+
+More than 6 years of extended experience as a Web Developer.
+Extensive knowledge of modern Web techniques, including interface development, client-side and server-side programming, and dynamic content management.
+Expertise in troubleshooting, calibrating, and building of hardware systems, software applications, fixtures and network systems. Highly experienced working in multiple Web programming languages/tools/technologies such as ASP, ASP.NET, HTML, DHTML, JavaScript, jQuery, VBScript, MS Visual Basic, PHP, SQL, Java, Perl, LAMP/WAMP, Adobe Photoshop
+Strong communication, interpersonal, intuitive, planning, analysis, troubleshooting, and leadership skills
+Work Experience
+
+Sample Company New York, New York
+
+Web Developer July 2015 – Present
+
+Designed, developed, and implemented internal and external application with standards-compliant code emphasis on browser compatibility, accessibility, efficient and optimized ASP, ASP.NET, PHP, Perl, CSS, VBScript, JavaScript, AJAX, jQuery, and HTML code, including data and system security, design and deployment of MS SQL and MySQL databases, graphical user interfaces, testing and documentation.
+Developed a fully functional prototype application using JavaScript (jQuery and Backbone.js) and Bootstrap, connecting to a REST-ful server on a different domain.
+Sample Company Jersey City, New Jersey
+
+Web Developer July 2012 – June 2015
+
+Designed development of presentation layers using HTML, CSS, JavaScript and jQuery.
+Used JavaScript and jQuery for validating the input given to the user interface.
+Developed the complete HTML, CSS and JavaScript of the pages with emphasis on performance, accessibility (AA) and SEO standards
+Implemented AJAX to speed up web application.
+Education
+
+Tandon School of Engineering New York, NY
+
+Master of Computer Information Systems, 2012
+
