@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 21 22:09:52 2017
-
-@author: DELL
-"""
-
-
 import os,sys,re
 import numpy as np
 np.set_printoptions(threshold=np.nan)
