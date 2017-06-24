@@ -1,0 +1,43 @@
+Android Developer
+
+Ahmedabad, Gujarat
+6 Months of Experience in Android Application Development. 
+-Proficient on User Interface (UI) in android, having good knowledge on customizing UI components, OOPS (Object-Oriented Programming Concepts), Problem Solving, Complexity Analysis and Debugging. 
+-Worked with Android components like Activities, Fragments, Broadcast Receivers and Services. 
+-Worked with Integrating AdMob Ads into App. 
+-Worked with Android adapter views like List view, Grid view and Gallery. 
+-Worked with Shared Preferences, SQLite database and Customized List views, Gird view. 
+-Now I'm working with Android Studio 2.2.3 but also have experience with Eclipse. 
+-I'm often use in project libraries like: Android Support Library, Google Play Service, Piccasa, JSON, View Pager and another common libraries. 
+ 
+-I'm really interesting in time-management and management overall. Most my free time I'm trying to release my ideas at real life. I'm loving to be a team member. It's a great opportunity to share your experience and meat a great people. 
+-Self-starter, fast learner, proficient in programming logic and easily adaptable to new technological environments and systems with proven abilities in resolving complex software issues. 
+PROJECT 
+ 
+- Create a Project Information For Police Department System using Asp.net in B.C.A 6th Sem. 
+- Create a Project on Shopping Cart using PHP in M.C.A 5th Sem. 
+- Create a Project on PropoLand regarding Real-estate using Android in M.C.A 6th Sem.
+Work Experience
+Android Developer
+Android Studio
+2011 to November 2016
+in Emphatic Technologies Since from 11th/Nov/2016. 
+Project Title: Flowers Cakes Online app 
+Role: Android Developer 
+Platform: Android Studio 
+Languages: Android 
+Description: This is the mobile app for the to order flowers, cakes, gift and more 
+online. In this application I was create payment option, social media 
+connectivity, push notification and many more functionality. 
+Responsibilities: Designed and developed the application for handling. 
+Url: https://play.google.com/store/apps/details?id=com.flowercakesonline
+Skills
+.NET (Less than 1 year), Android (5 years), C (Less than 1 year), CSS (Less than 1 year), database (Less than 1 year)
+Additional Information
+SOFTWARE PROFICIENCY 
+ 
+Languages C, C++, Android, JAVA, .NET, VB6.0, PHP. 
+Database Oracle 8i, MS-SQL 
+Operating Systems Windows 2000, XP, 7,8, UNIX 
+Web Designing JAVA SCRIPT, HTML, XML, CSS 
+Development Methodology Object Oriented Programming

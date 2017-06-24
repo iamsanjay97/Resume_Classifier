@@ -1,0 +1,46 @@
+Jenifer Wallace
+123 Main Street | Bristol, CT 06010
+Cell: (123) 456-7890
+email@example.com
+Talented Android Developer with over five years of software and web development experience in a broad range of industries, including sports entertainment, restaurant management, and mobile gaming. Solid understanding of full mobile and software development life cycles, UIX, web analytics, changing web standards, and Agile methodologies. Dedicated to continuously developing, implementing, and adopting new technologies to maximize development efficiency and produce innovative applications.
+Core Qualifications  
+Native Android Development
+Quality Assurance
+Mobile Development Life Cycle
+User Experience Design
+Information Architecture
+Agile Software Development Methodologies
+Professional Experience
+Software Engineer / Android Mobile Application Developer4/1/2014 - Current
+ESPNBristol, CT
+
+
+Work as part of team to define and implement solutions in alignment with ESPN Advanced Technology Group’s roadmap.
+Design and implement services, applications, and frameworks for mobile platforms to change how fans interact with sports content; integrate solutions into innovative core technologies and frameworks.
+Develop software supporting next generation digital technologies; create and prototype solutions and proof of concepts to demonstration innovations’ viability.
+
+
+Android Developer4/1/2012 - 2/1/2014
+HOT SCHEDULESAustin, TX
+
+
+Developed new features for proprietary Android applications used on phones and tablets; worked with developers to develop top tier solutions for restaurant customers.
+Maintained long and short-range deliverables with product management team according to product roadmaps.
+Wrote unit tests for mobile code and debugged critical application issues such as crashes, memory leaks, and concurrency problems.
+Devised RESTful services with Java Apache CXF and performed code reviews for peers.
+Integrated multiple systems to move data between layers of software stack.
+Managed tasks within Agile framework, cleared Sprinted tasks, and controlled JIRA workflows.
+Documented architecture and implementation for internal and external consumption.
+
+
+Android Developer / Mobile Applications Developer9/1/2010 - 7/1/2012
+APPSONE+Austin, TX
+
+Designed and built advanced game applications for Android platform, and collaborated with cross-functional teams to define, design, and launch new features.
+Tested code for robustness; executed edge case, usability, and general reliability analysis.
+Fixed bugs and improved application performance.
+Partnered with artists, QA, and internal developers to maintain best practices.
+Education
+Bachelor of Science: Computer Science, California College, San Diego, CA
+Technical Skills
+C/C++, Java, JavaScript, Python, Perl, Android NDK, Linux/Unix OS, Eclipse IDE, XML, JSON, REST, SOAP, OAuth, HTML5, CSS3, AJAX, Jquery, XML, Hypermedia Application Language (HAL), API

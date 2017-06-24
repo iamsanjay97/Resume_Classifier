@@ -1,0 +1,62 @@
+John Smith
+123.456.7890
+johnsmith@abcmail.com
+125 First Street
+Austin, TX 78610
+
+A forward thinking developer offering more than four years of experience building, integrating, testing and supporting Android applications for mobile and tablet devices on the Android platform.
+
+Highlights
+
+Created 10+ fully functional applications for Android devices
+Known for writing efficient, maintainable and reusable code
+Proficient in design, data structures, problem-solving, and debugging
+Expert in the interaction between various devices and versions of Android
+Experience
+
+Android Developer, ABC Corporation                                  
+Jan 20XX - Nov 20XX
+
+Project lead of mobile development team for various ABC Corporation Android projects. Collaborate with marketing, key executives, UI designers, and other developers to develop cutting-edge applications for the financial sector without jeopardizing data privacy or security.
+
+Tasks and responsibilities
+
+Ensure applications are properly integrated with Android API’s
+Create SQL database structures that integrate with Android applications and web interfaces
+Participate in fast-paced development cycles 
+Contribute and participate in new feature/product specifications
+Android Developer, XYZ Gaming                                              
+May 20XX - Oct 20XX
+
+Worked with architects, engineering, and product management to deliver user-friendly and visually appealing mobile games for the Android platform.
+
+
+
+Tasks and responsibilities
+
+Created and tested high-quality Android games that included game functionality, animations, social networks, and server-side integrations
+Ensured content met or exceeded business and client requirements
+Wrote clean, clear, efficient, well-tested, and maintainable code
+Articulated technical risks and obstacles to key stakeholders and managers
+
+Technology Skills
+
+Operating Systems: Windows, Linux, Unix
+Tools and Technologies: Android SDK, Android Studio, Eclipse
+Languages: Java, JavaScript, C#, Ruby, Python
+Certifications: Sun Certified Java Developer (SCJD)
+
+Education
+
+University of XXX
+Bachelor of Science, Computer Science
+
+Related: Tech Skills for Resumes | Android Developer Skills
+
+Sample Resumes 
+Sample resumes, including chronological, functional, and mini, as well as templates for resume writing.
+
+Sample Cover Letters
+Cover letter samples for a variety of career fields and employment levels, including an internship cover letter sample, entry-level, targeted and email cover letters.
+
+Please Note: Samples are provided for guidance only. The provided information, including samples and examples, is not guaranteed for accuracy or legality. Letters and other correspondence should be edited to fit your personal situation.
