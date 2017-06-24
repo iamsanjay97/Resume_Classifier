@@ -1,0 +1,38 @@
+Career Objective
+Seeking a position as a DBA in initiatives that utilize state-of-the-art, software and/or hardware components with a creative, technology-driven organization in an environment that encourages innovative thinking, recognition and career development.
+Career Summary
+An Innovative thinker with extensive experience designing, coding, testing and supporting the next generation database solution.
+Possesses 3+ experience as DBA Administrator.
+Proficient in technologies like DB2, Access, Sybase, JDBC, Visio.
+Expert in technical problem solving skills.
+Skilled in designing and implementing complete life cycle client servers and database applications with various development tools and languages.
+In-depth understanding of security and backup procedures to ensure database integrity.
+Personal Qualities
+Strong motivational and leadership skills.
+Excellent communication skills in written and verbal both.
+Ability to produce the best result in pressure situation.
+Ability to work in team as well as individual.
+Key Responsibilities Handled
+Created new database for the customer and export other monitoring scripts.
+Implemented database refresh using full export for table level and full database defragmentation, resulting improved performance and effective space management.
+Developed many crystal reports using T-SQL, JDE Report Design.
+Managed and resolved design issues during development stage. Worked closely with developers.
+Generated reports from the database using PL/SQL and SQL.
+Added more new features to existing analysis software tools.
+Trained a new DBA in our environment.
+Technical Experience
+Databases: MS-SQL, MySQL, DB2, Universal Database V8.1, Access, Lotus Notes, SAP, DPF
+Operating Systems: Windows 2000 / 2003 / NT / XP, UNIX, Linux, Solaris
+Languages: Java, JSP, JDBC, XML, HTML, C, C++, Perl, VB, NET, ASAP.NET
+Achievements
+Managed a million data-integration project for financial services firm that consolidated information from accounting applications, third-party market data and internal equities/fixed income applications.
+Contributed to retailer's 12% revenue growth in 2010 by standardizing content from disparate databases, enabling sales and support staff to quickly respond to customer requests.
+Employers
+Working as DBA Developer in ASD Solutions from 2011 - Present.
+Worked as DBA Developer in GHJ Solutions from 2009 - 2011.
+Academia
+B.Tech. in Computer Science
+Personal Details
+Date of Birth: 10th May 19XX
+Address- DJBBHDB
+Languages Known- Hindi, English

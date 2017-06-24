@@ -1,0 +1,88 @@
+XXXX XXXX
+XXXX, Buffalo MN 55313
+(H) XXX-XXXX-XXX (C) XXX-XXXX-XXX (E) XXXX@XXXX.XXX
+Profile
+Experienced Information Security Specialist with diverse industry experience, specializing in IT, Project Management, Training, Financial Analysis, and Customer Service. Professional expertise includes administering and coordinating the configuration of systems roles and applications, new systems release management, disaster recovery planning and information protection analysis.
+Core Qualifications
+IBM Tivoli Identity Manager
+Active Directory
+Cognos
+Application-specific Mainframe Tables
+Microsoft Word
+Microsoft Excel
+Microsoft Outlook
+IBM Tivoli Access Manager
+IBM RACF - Vanguard
+Remedy Action Request System
+Financial Institution Security Administration
+Lotus Notes
+Skills
+Account Administration
+Project Management
+User Security
+Administration
+Technical Documentation
+24 Hour On-call Support
+Procedure Documentation
+Technical Support
+Quality Review
+Staff Training
+Team Leader
+Professional Experience
+01/2010 - 04/2013
+Prudential Financial - Plymouth, MN
+Information Security Specialist
+User and account administration, 24 hour on-call support, technical documentation, standard operating procedures, complaint escalation, release support, staff training, quality review, special projects
+
+• Administered to user security profiles on multiple platforms and with a variety of 100+ enterprise, company specific and third party applications.
+• Lead role for coordinating and administering all 3rd-party security systems for the entire enterprise.
+Strengthened security controls and process as required by internal and external audit. Documented process changes, communicated changes to the administration teams.
+• Initiated meetings with management to discuss and document process flow changes for security requests, communicated new workflow.
+• Developed, documented, implemented and maintained process to monitor 100% of user transfers within a business unit mitigating risk for high risk transaction. Business unit process was merged into an enterprise initiative in which I assisted implementation of initiative, wrote user guide document, established quality review checklists, conducted customer and peer training and performed peer quality review.
+• Led development of standardized procedures to complete service ticket requests ensuring consistency and compliance, positioned Company for successful off-shoring for cost reductions.
+
+01/2008 - 01/2010
+Prudential Financial - Plymouth, MN
+Process Management Analyst
+User account administration, functional requirements documentation, operating procedure documentation, business liaison support and training, staff training, 7x24 user and application release support.
+
+• Gathered, documented, implemented security requirements for the business functions. Permitted users to the appropriate functions using manual and automated technologies.
+• Administered to user security profiles on multiple platforms and with a variety of 100+ enterprise, company specific and third party applications, meeting 90% service level in 24 hours with 94% quality, special handling in 4 hours.
+• Established partnership with Management, Technical Support and business partners for sales force. Provided tools and created forms for automated, consistent request submission.
+
+01/1999 - 01/2008
+Prudential Financial - Plymouth, MN
+Senior Accounting Analyst
+Provide key Financial Operations support for Individual Insurance business, review cash balances and reconcile accounts in excess of $1 million daily.
+Monitor transactions on the company's daily ledger and provide trending and analysis to support the findings. Lead in-depth system training for Financial Data Collection System as well as other system releases.
+One of two trainers to provide full-scale rollout of the Financial Data Collection System.
+Developed and implemented process to reduce the company's interoffice accounting entries from over 5,000 to less than 100, saving the enterprise thousands of dollars in undocumented funds.
+01/1998 - 01/1999
+Prudential Financial - Plymouth, MN
+Team Leader
+Supervised a Team of 21 Customer Service Representatives.
+Administering performance measures, conflict resolution, attendance, and salary.
+Chaired weekly reporting meetings with site executives.
+Resolved customer service complaints.
+Education
+St. Cloud State University - St. Cloud, MN, Stearns
+Bachelor of Science: Education
+3.2 GPA
+Hockey Team Member
+Intramural Club
+Mankato State University - Mankato, MN, LeSeur
+Education
+3.0 GPA
+Hockey Team Member
+Build Your Own Now
+
+Senior Security Engineer / Architect @ Accuvant
+Computer Security
+
+Owner / Member @ The Great Escape Room LLC
+Computer Security
+
+Games Attendent @ Main Event
+Computer Security
+PreviousNext
+

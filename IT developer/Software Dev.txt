@@ -1,0 +1,55 @@
+Resume
+
+References available upon request. Email me at cjlarose@gmail.com
+
+Experience
+
+Software Engineer AppFolioJuly 2014–Present
+
+Designed and implemented a SOA microservice with a JSON HTTP REST API for recent activity feeds using AWS SQS to handle over 1-million writes per day
+Worked to transition a SaaS B2B2C application from using a single MySQL database node to partitioning customers onto several nodes to meet the demands of a quickly-growing business
+Developed an RFC 6749-compliant OAuth 2.0 server for use with mobile (iOS and Android ) clients, as well for communication among internal services
+Extracted reusable modules from a monolithic application into libraries for use in new microservices
+Lead an initiative for engineering and product management to cooperate in redefining the authorization models used in SaaS application in an effort to simplify the implementation and create a user experience that best matched what customers needed
+Regularly performed phone screens and on-site technical interviews for engineering candidates
+Made various performance improvements using data collected by NewRelic and by local profiling with RubyProf
+Software Engineer, Intern AppFolioJune 2013–Aug 2013
+
+Researched and implemented HTML5 WebSockets integration, dramatically reducing the number of HTTP requests made for updating activity feeds, unread counts, and in-app reminders
+Implemented a TOTP (Time-Based One-time Password)-based system for use with multi-factor authentication including database schema design, HTTP request handling, and pages presented to users
+Optimized memory usage for data exports using lazy data-fetching
+Wrote unit tests for new database models and controllers as well as view tests with Selenium WebDriver
+Student Programmer iPlant CollaborativeDec 2011–May 2013, Sept 2013–June 2014
+
+Developed a single-page web application for a service that allowed bioinformaticians to manage cloud resources (instances, images, volumes) deployed to a private OpenStack cluster
+Developed an idiomatic pure-Python client implementation for a distributed filesystem server (iRODS), which has since been adopted as the official Python client for the project
+Created a web application that allowed browsing a collection of publically-available datasets using the aforementioned iRODS client
+Migrated a non-trivial application frontend from unstructured jQuery to Backbone.js and later again to React.js and Flux with a modern build system (Gulp)
+Implemented agent-oriented monitoring for OpenStack instances using Nagios and Graphite
+Highlighted Open-Source Software Contributions
+
+facebook/jscodeshift #102: Fix process disconnection bug
+NodeJS Kafka Client #50: Simplify use of promises
+Netflix/falcor #743: Documentation changes
+cjlarose/webmock-net-http-headers-bug: Bug report for false positives in HTTP mocking library
+pyjwt #39: Add support for bytes-typed secret keys for JWT signatures
+http-kit #19: Documentation changes
+2fa_example #2: Fix type conversion bug
+Reddit-Enhancement-Suite #225: Gallery image preloading
+Meetup.com PHP Client #3, #4, #5: OAuth authorization code support
+Personal Projects
+
+deJong Attractor Visualization: ClojureScript, WebGL
+weiqi.js: JavaScript implementation of Go (board game) using immutable data structures
+argon2-ffi: NodeJS bindings for argon2 (password hashing library)
+Technologies
+
+Languages: Ruby, JavaScript (ES6/ES2015), Python, Java, Clojure
+Frameworks & Libraries: Ruby on Rails, Django, Kafka, Falcor, React, Redux, Backbone.js, jQuery
+Services: Amazon Web Services SQS, S3, EC2, ELB
+Datastores: PostgreSQL, MySQL, Redis
+Education
+
+University of ArizonaAug 2011–May 2014
+
+Completed a Bachelor's of Science in Computer Science with a minor in Mathematics with honors (GPA: 3.684). Honors Thesis: Micro-Specialization in Multidimensional Connected-Component Labeling.

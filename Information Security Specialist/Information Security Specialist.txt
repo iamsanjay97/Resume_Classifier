@@ -1,0 +1,127 @@
+Information Technology Security Specialist
+
+Insightful, results-driven IT professional with notable success directing a broad range of corporate IT security initiatives while participating in planning, analyzing, and implementing solutions in support of business objectives. Excel at providing comprehensive secure network design, systems analysis, and full lifecycle project management. Hands-on experience leading all stages of system development efforts, including requirements definition, design, architecture, testing, and support. Outstanding project and program leader; able to coordinate and direct all phases of project-based efforts while managing, motivating, and guiding teams.
+
+Areas of Expertise
+
+		Network and Systems Security
+
+
+		Research and Development
+
+
+		Regulatory Compliance
+
+
+		Cost Benefits Analysis
+
+
+		Policy Planning / Implementation
+
+
+		Virtualization & Cloud Technologies
+
+
+		Data Integrity / Disaster Recovery
+
+
+		Risk Assessment / Impact Analysis
+
+
+		Technical Specifications Development
+
+
+		Team and Project Leadership
+
+Technical Proficiencies
+
+
+
+
+
+Networking:
+
+LAN / WAN Administration, VPN, TCP/IP, Novell, SMS/SQL, 100BaseT Ethernet, SecureID, Cisco Routers & Switches, Juniper Switches, VoIP
+
+
+
+
+
+Tools:
+
+MS PowerShell, N-Able, Citrix, AutoDesk QTO, Symantec Endpoint Protection, ESET, Command Workstation, VMware, MS Hyper-V, LogMeIn, UltraVNC, Microsoft Office Suite, Access, MS Project
+
+ 
+
+Information Security Analyst
+
+Recruited to establish enterprise-wide information-security program; oversee companywide efforts to identify and evaluate all critical systems. Design and implement security processes and procedures and perform cost benefit analysis on all recommended strategies; accountable for security budget of $1.1 million. Collaborate with external auditors to conduct in-depth compliance audits and penetration testing, presenting results to senior management. Develop curricula and facilitate awareness training. Supervise daily activities of Computer Security Assistant and Internet Administrator.
+
+Key Achievements:
+
+
+		Instrumental in developing and implementing Business Continuity and Disaster Recovery (BCP & DRP) Plans for corporate sites
+
+
+		Spearheaded creation of four new information-security departments: Risk Assessment, Vulnerability, Penetration Testing, and Security Engineering services.
+
+
+		Hand selected employees from Information Technology department to build Risk Assessment Team charged with analyzing all critical systems, developing reports to document system vulnerabilities, and recommending appropriate solutions.
+
+
+		Created company policies and procedures governing corporate security, email and Internet usage, access control, and incident response.
+
+LLCA Information Systems, Garland, Texas 3/2002 - 6/2009    
+
+QA Lead, 1/2005 – 6/2009
+
+Promoted to lead system development and new product QA. Ensured accurate release testing for all new applications, providing final approval for bug-free, fully functional commercial solutions. Proactively assigned resources to meet workflow needs. Created development plans, project documentation, and test cases.
+
+Key Achievements:
+
+
+		Authored numerous ISO 9000 procedures and security policies in support of engineering operations, participating in regular audits to ensure regulatory compliance.
+
+
+		Managed creation of high-profile HATP (High Availability Transaction Processing) solution, supervising development teams working in multiple locations.
+
+
+		Developed highly effective Software Manager application to enable disk-free software upgrades deployed through ATMs and desktop systems worldwide.
+
+
+		Successfully applied for US Patent on new security software design.
+
+Computer System Engineer/Network Developer, 3/2003 – 1/2005
+
+Provided remote and on-site support for domestic and international customers, including Tier-III support for LAN/WAN products and sales support for key accounts of all sizes.
+
+Key Achievements:
+
+
+		Designed and implemented customer call-center support procedures and customer network design strategy for sales and marketing teams.
+
+
+		Recognized for outstanding quality of customer service with numerous customer-support awards and personal commendation from clients. 
+
+Education & Credentials
+
+Bachelor of Science in Computer Information Systems
+
+
+
+Professional Certification
+
+
+		MCSE – Microsoft Certified Systems Engineer
+
+
+		CISSP – Certified Information Systems Security Professional
+
+Professional Affiliations
+
+
+		Information Systems Security Association
+
+
+		International Information Systems Security Certification Consortium, Inc.
+

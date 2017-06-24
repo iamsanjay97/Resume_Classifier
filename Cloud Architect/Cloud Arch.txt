@@ -1,0 +1,77 @@
+Will Rogers
+
+Cloud Consultant
+Solution Architect
+Engagement Manager
+
+122 A St. Boston MA 01980
+000.555.1212 | email@gmail.com | wrogers@onlineprofile.com
+
+A visionary leader with the architectural skills, experience and insight to elevate any application, computing platform infrastructure or data operation to the cloud.
+
+Summary of Qualifications
+
+Successfully designed and delivered secure cloud solutions for major organizations such as ABC Cable and Green Global Solutions.
+Earned a reputation for designing cloud deployment strategies that mitigate risk while meeting infrastructure, employee, customer and budgetary needs.
+More than 5 years’ experience with Salesforce.com and other SaaS technologies.
+Excellent communication, interpersonal, analytical and presentation skills.
+Salesforce.com certified.
+Technical Skills
+
+Cloud & SaaS Platforms: Amazon and Google Web Services, Salesforce.com, Workday, Concur, ServiceNow
+J2EE Platforms: JBoss, Tomcat, WebLogic, AquaLogic and WebSphere
+Legacy Development Stacks: Java, C#, C++ and Linux
+Architectural Experience: Python, DJango, Ruby on Rails, .NET, RIA (Silverlight, Adobe Flex/Air) Azure, Terremark, Rackspace
+ETL Tools: Informatica, SSIS, Talend and Boomi
+Professional Experience
+
+Enterprise Cloud Architect, ABC Cable Co.2011 to present
+Provide thought leadership and architectural expertise to a cross-functional team charged with deploying a host of customer-related applications and data to the cloud.
+
+Key Duties and Responsibilities
+
+Conduct systems design, feasibility and cost studies and recommend cost-effective cloud solutions.
+Administer discovery, user testing and beta programs to garner feedback prior to each major release.
+Advise software development teams on architecting and designing web interfaces and infrastructures that safely and efficiently power the cloud environment.
+Selected Achievements
+
+Reduce overhead and infrastructure costs by 38 percent by consolidating and deploying 10 legacy applications to cloud platforms such as Google web services and Salesforce.com.
+Deliver major releases to stakeholders on time and under budget.
+Successfully develop feature packages that include use cases, work-flows, requirements and functional specifications for hand off to development team.
+Cloud Services Architect, Green Global Solutions2008 to 2011
+Responsible for designing and implementing cloud-based solutions, including private, community and public cloud deployment models for a variety of mid-size companies.
+
+Key Duties and Responsibilities
+
+Designed and built cloud service models including Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service for 6 companies.
+Led focused project teams in the configuration and customization of Salesforce.com and other SaaS applications.
+Integrated data into SalesForce from multiple sources by using DataLoader Experience architecting and by building solutions within the Salesforce portal.
+Selected Achievements
+
+Designed and executed 6 end-to-end cloud implementations for organizations in hi-tech, marketing and healthcare.
+Architected structures that allowed Salesforce.com to interface with Oracle EBS or other legacy systems, resulting in the seamless integration of account, contact and event management and reporting.
+Reduced process redundancies and learning curves by configuring business rules and transactions to fit each organization’s needs.
+“Will was our go-to resource for data models, security, role hierarchy, integration and platform customization in Salesforce.com.”– Sean Gilbert, Green Global
+
+Safety Insurance2005-2008
+Served on an enterprise architecture team that launched Salesforce.com.
+Cloud Specialist2007-2008
+Data Architect2006-2007
+Junior DBA2005-2006
+Marketing Intern/Web Developer2004
+
+Education & Certifications
+
+BS in Business Administration, minor in Computer ScienceBoston University
+Salesforce.com Certified Advanced Administrator
+Salesforce.com Certified Developer
+Salesforce.com Certified Service Cloud Consultant
+Salesforce.com Certified Sales Cloud Consultant
+
+Groups & Associations
+
+Salesforce.com Consulting Network and Enterprise Implementations group, Cloud Computing, Open Source in Business, Software as a Service (SaaS) Group
+
+122 A St. Boston MA 01980
+000.555.1212 | email@gmail.com | wrogers@onlineprofile.com
+

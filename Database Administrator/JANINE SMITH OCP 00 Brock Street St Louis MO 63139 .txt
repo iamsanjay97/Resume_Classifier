@@ -1,0 +1,69 @@
+JANINE SMITH, OCP
+00 Brock Street | St. Louis, MO 63139 | (636) 000-0000 | email@email.email
+
+Certified Database Administrator with experience in maintenance, security, and backup and recovery
+
+SUMMARY OF QUALIFICATIONS
+
+Over 9 years of experience, including 6 years as DBA in development and production environments.
+Ensure Oracle database systems operate efficiently and securely.
+Skilled in designing and implementing complete life cycle client servers and database applications with various development tools and languages.
+Manage internal databases, from planning and testing stages through implementation and support.
+In-depth understanding of security and backup procedures to ensure database integrity. Background in developing backup and disaster recovery plans for nationwide offices.
+Superior communication, presentation, analytical and problem solving skill. Work well with all levels of business.
+TECHNICAL SKILLS AND CERTIFICATIONS
+
+Databases:     Oracle 7/8/9 (RAC/OPS), MS-SQL, MySQL, DB2, Universal Database V8.1, Access, Lotus Notes, SAP, DPF
+Operating Systems:     Windows 2000/2003/NT/XP, UNIX, Linux, Solaris
+Applications:     SQL-Loader, SQL Navigator, SSH, Forte for Java, Apache, IIS, Domino 4.x/5.x/6.x, ULTRADEV, Dreamweaver
+Languages:     Java, JSP, JDBC, XML, HTML, C, C++, Perl, VB, NET, ASAP.NET
+Certifications:     Oracle9i Database Administrator, IBM Certified Expert – DB2 Universal Database V7.1 Database Administration for UNIX, Windows, and OS/2
+
+PROFESSIONAL EXPERIENCE
+
+ABC Corporation, St. Louis, MO: 2005-Present
+Senior Database Administrator
+
+Responsible for Oracle 9i logical and physical database design, implementation, and maintenance on Windows NT
+Created new databases and users: set up backups, export, and other monitoring scripts
+Implemented database refresh using full export for table level and full database defragmentation, resulting in improved performance and effective space management.
+Managing database security. Design, develop, and implement automated data backup and restoration procedures. Provide technical support for database maintenance and disaster recovery
+Identify, recommend, and implement all new database technologies and Oracle license management.
+ABC Company, St. Louis, MO: 2003-2004
+Database Administrator
+
+Created new databases, involving importing and exporting: installing and configured database software for Oracle Application development environment.
+Responsible for Oracle 9i logical and physical databases design, implementation, and maintenance
+Reorganized databases and sized database objects to meet standards and improve performance 30%
+Handled database server tuning, application tuning, maintaining documentation, capacity planning and database security
+XYZ Company, St. Louis, MO: 2000-2003
+Database Manager/Administrator
+
+Created Oracle 8i databases for 2 large departments, from planning and testing through production.
+Implemented backup and recovery procedures of databases in Sun Solaris and Red Hat Linux environment: implemented backup and recovery procedures and IT department manual.
+Managed database remodeling and interface development during migration from MS Access to MS SQL server and from MS SQL to Oracle 8i
+Enhanced MS-Access databases by improving user interface, introducing multiple-user access, and increasing security and stability
+Involved in all phases of database development, from needs assessment to QA/QC, design, and support
+XYZ Incorporated, St. Louis, MO: 1997-1999
+Database Manager/Administrator
+
+Held Oracle DBA responsibility for parallel Oracle/SAP database using Oracle Parallel Server
+Supported Oracle developers. Performed database tuning, created database reorganization procedures, scripted database alerts, and monitored scripts
+EDUCATION
+
+Bachelor of Science, Computer Science, St. Louis University (1995)
+
+TRAINING
+Oracle9i: New Features for Administrators
+Oracle9i: Real Application Clusters
+Oracle8i: Introduction to oracle SQL, PL/SQL
+Oracle8i: Architecture and Administration
+Oracle8i: Backup and Recovery
+Oracle8i: Performance Tuning
+Oracle8i: Network Administration
+Oracle8: Database Administration
+Oracle8: Backup and Recovery
+Oracle Enterprise Manager
+Oracle8: New Features for Administrators
+Oracle8i: New Features for Administrators
+Oracle 8: SQL and PL/SQL

@@ -1,0 +1,50 @@
+Data science engineer
+Hyderabad, Andhra Pradesh
+Work Experience
+Data science engineer
+Cube26 Software Pvt Ltd - New Delhi, Delhi
+September 2015 to Present
+Data science at Cube26, New Delhi, India 
+Cube26 is a software provider for numerous mobile OEM manufacturers with some invest- ment in home automation and allied domains. We process the data that flows in from these 
+devices to build smarter products. 
+• I built, managed and worked with a team of about four engineers handling the end-to-end 
+machine learning pipeline. We crunch a variety of data including text, images, and user in- teraction data using various machine learning models to perform predictive and exploratory 
+data analysis. 
+• Among us, we fit and validate different models to our data and test our prototypes. We 
+pick the most suitable ones (best performing within the computational budget) and push 
+them into production and maintain them. 
+• Some of our work is openly available in the public domain, for example, the classifier in the message app (available at this weblink) and the Artify feature of camera app (available on the web here) 
+• Our server-side backend is deployed in Python using openly available tools like Scikit-learn and Luigi. Any tasks that need to scale to large amounts of data are deployed as Spark jobs. 
+Our device-side client facing code is written in C++ into which we port the chosen machine 
+learning model.
+Assistant Professor
+Indian Institute of Technology - Varanasi, Uttar Pradesh
+2014 to 2015
+Varanasi, India 
+I was part of the faculty at the Computer Science department in the institute where I had 
+teaching and research responsibilities. 
+• I taught two undergraduate programming courses in the even semester of 2014- 15. In the semester preceding that I handled parts of Computer Graphics, Intelligent Computing and 
+Software Engineering Tools courses jointly with other instructors. 
+• I supervised projects of undergraduate students in the department and coordinated 
+institute-wide automation and computerization program.
+Engineer
+MirriAd Limited - London
+2008 to 2009
+London, UK 
+MirriAd delivers technical solutions for video marketing wherein content producers can use 
+their high-quality object embedding software to embed products into high-resolution videos after they are shot. 
+• I worked at an early stage of the making of their embedding software to build features like scene/cut detection, video interlace identification, etc. We used various techniques from computer vision and machine learning literature to build these features.
+summer intern
+Joanneum Research - Graz, ST
+2007 to 2007
+with the computer vision team at Joanneum in Graz to program an pan-tilt camera with robotic arm to track and hold objects.
+Education
+Doctorate in Computer Science
+University of Paris
+2011 to 2014
+Bach in Computer Science
+Institut National Polytechnic Grenoble (38)
+October 2009
+Bachelors in Computer Science
+International Institute of Information Technology Hyderabad, Andhra Pradesh
+August 2004

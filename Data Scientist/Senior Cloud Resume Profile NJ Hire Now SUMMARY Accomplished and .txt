@@ -1,0 +1,178 @@
+Senior Cloud Resume Profile
+NJ
+ Hire Now
+SUMMARY:
+Accomplished and seasoned Information Technology professional with over 14 years of experience in a diverse range of technologies, contributing to the success in managing and overseeing all IT Operations Engineering within multiple industry settings.
+Highly effective in key areas including: Planning, directing, and coordinating the development, implementation, and operation of information systems and technology solutions with a focus on infrastructure and applications.
+Proven track record in identifying and architecting solutions, working closely with management teams, and developing and implementing strategies to improve business functionality.
+Successful partnerships with leaders from multiple LOBs, peer engineering teams and project managers to develop, implement and support large scale enterprise grade End-to-End technology solutions in change-intensive environments.
+Success in all aspects of team management: Hiring onshore and offshore , prioritization of projects and tasks, allocation of resources, performance management and development. Extremely effective partner and skilled at leading, motivating, energizing team members.
+RELEVANT SKILLS:
+Key Areas:
+Infrastructure Architecture Engineering, Virtualization Cloud Technologies, Automation Engineering, Core Services Engineering, Platform Engineering, SDLC/ALM, Agile Development, Strategic Planning, Team Leadership, Talent Development, Outsourcing, Business Continuity, Vendor Management, IT Cloud Governance, ITIL ITSM Service Management Frameworks
+Programming Languages:
+Python, Perl, Shell, Web Technologies DHTML/HTML, JavaScript, CGI , C, C , Workflow Authoring, VBA, VB6 VB.NET
+Platforms:
+Ubuntu, CentOS, RHEL 3/4/5, MS Windows 200x R1/R2/Core, HP UNIX 9.x/10.x/11i, Solaris
+Virtualization/Cloud Technologies IaaS/PaaS :
+Xen, KVM, and ESX VMware vSphere , OpenStack, VMware vCloud, VMware vSphere 5.x, vCOPS, Cisco ACI, Amazon Web Services VPC, EC2, Elastic Beanstalk , CloudFoundry, Linux Containers LXC , Docker, Solaris Containers Solaris Zones
+Automation Tools:
+Puppet, Ansible, Rundeck, CFEngine, Alcatel-Lucent QIP, BMC Blade Logic Database Automation, MS SCCM, HP QC, VMware vCenter Orchestrator vCO , vCAC, Cisco Process Orchestrator
+Other:
+Git, JIRA, Jenkins, Bamboo, Confluence, SVN, Release Management, Configuration Management, Splunk, Elasticsearch, Logstash, dynaTrace, New Relic, Nagios, Apache, Nginx, MS AD, SQL Server, Cassandra, OrientDB, AWS EMR RedShift
+Infrastructure Fabric Protocols:
+Cisco UCS, VCE Vblock, HP EMC SAN, Cisco Catalyst switches, Cisco routers, Cisco PIX ASA firewalls, F5 load balancers, Knowledge of Layer-2 and Layer-3 network technologies, NFS, NIS, SSL, SSH, DNS, DHCP, IPsec, Strong understanding of WAN technologies utilizing T1, T3, OC12/48, DS0, BRI, Routing protocols EIGRP, RIP, BGP, OSPF, HSRP
+PROFESSIONAL EXPERIENCE:
+Confidential
+Senior Cloud / DevOps Manager Contract role
+DevOps Team Lead responsible for leading WMG's DevOps group who create, operate, maintain, and evolve the infrastructure that supports internal B2B consumers and Digital Services Platform DSP web properties.
+Serve as a subject matter expert lead on the execution and delivery of Cloud Integration and Transformation projects using cloud enabling technologies as well as orchestration and management approaches and tools Scalr, Ansible .
+Lead and contribute in the DevOps team to maintain and build out the infrastructure and servers currently operating on AWS, OpenStack, and Cloud Foundry.
+Spearhead efforts to deliver scalable monitoring solutions using APMs dynaTrace , aggregated logging systems, and service health discovery tools Consul .
+Evolve infrastructure, server, deployment strategies and testing to support a goal of 100 up-time and quick turnaround of deployments for the Engineering organization.
+Continuously improve the infrastructure to be easy to deploy, scalable, secure and fault-tolerant.
+Work closely with architects, engineers, product managers and other clients and partners of the DevOps team to meet the needs of the organization to stay competitive - from the infrastructure up to the highest level of applications.
+Drive the process in which the team operates and iterates/releases code through lifecycles Dev Test, Staging, and Production .
+Ensure enterprise demand management through planning, estimation, and sizing of infrastructure needs in the cloud.
+Responsible for cost management/optimization balanced with SLAs.
+Take on Senior DevOps Engineer duties such as being on-call, writing deployment scripts, debugging applications, and evaluating new technologies.
+Confidential
+Senior Cloud Engineer
+Responsible for leading the design, planning, and providing expert technical knowledge in delivering EY's OneCloud hyper-converged cloud infrastructure strategy which encompassed IaaS, IaaS PaaS and XaaS internal private cloud, external public cloud and hybrid cloud services .
+Roles and responsibilities include engineering and support of Cloud Management Platforms VMware vCAC Cisco Process Orchestrator , Automation and Orchestration of datacenter endpoint infrastructures vCO , end to end application configuration and deployment Puppet .
+Lead project tasks, work with architects, project managers, and external consultants working on delivery of EY's OneCloud solutions including the engineering/maintenance of cloud automation, application configuration, and workflow automation tools.
+Confidential
+Cloud Transformation Architect
+Senior Consultant within the SunGard Infrastructure Transformation and Cloud Computing practice, providing practical experience and thought leadership to clients while helping conceive, plan, build, and execute their cloud computing strategies and solutions.
+Serve as a subject matter expert lead on the execution and delivery of Cloud Integration and Transformation projects using cloud enabling technologies as well as orchestration and management approaches and tools.
+Actively participate in the development of new service offerings and capabilities for software defined infrastructure Infrastructure as Code administering and operating systems through scripts, APIs, tooling, and automation.
+Work with consulting leadership team on practice development and growth plans.
+Provide experience based guidance and implementation of Cloud Computing solutions, tools, architecture, and approaches.
+Ensure timely and quality delivery of solutions and capabilities.
+Drive new business through discussions with senior IT leaders at target clients.
+Assist customers with the planning and design of system architecture to allow rapid scaling to meet demand.
+Work with customers to plan and coordinate the implementation of moderate to complex system and software migrations.
+Confidential
+QA Cloud Architect Contract role through Accenture
+Team Lead concentrating on building cloud automation capabilities in a multi-org agile development environment and leading efforts to develop, document, and implement applicable processes and procedures to provide effective quality methods within the organization.
+Define end-to-end deployment/test strategy and approach for all AT T Converged Cloud offerings MaaS, IaaS, and CaaS OpenStack and vCloud cloud management platforms , provide quality assurance leadership, and responsible for ensuring product quality.
+Develop and drive high-level strategies around product architecture, delivery, and quality assurance.
+Collaborate with developers and solution architects to improve overall product quality by emphasizing defect prevention throughout the development process.
+Confidential
+Cloud Engineer / Architect
+Provided senior level consultancy, technical expertise, and guidance to J J Cloud Services program across various stages of controlled introduction and product lifecycle.
+Worked closely with Development, Operations, and Architecture teams to improve technical capabilities, streamline processes, and maximize efficiencies within the J J AWS VPCx Cloud Services Platform.
+Used various scripting technologies and development tools such as Python, PowerShell, and Perl to automate assurance testing and bootstrap virtual instances for rapid cloud provisioning.
+Developed automated test frameworks for web services, REST/SOAP APIs.
+Managed defect tracking, backlog management, and story creation using JIRA.
+Confidential
+Global IT Manager / Sr. Engineer
+Spearheaded, directed, and executed IT DevOps strategies, operations, and teams to catapult the company to its highest level of performance and goal attainment.
+Enlisted by CIO to perform an in-depth, organization-wide risk and opportunities assessment, including Sarbanes-Oxley audit, Disaster Recovery preparation / BCP planning, and Capacity Management to identify and resolve quality and performance problems.
+Expertly led global enterprise technology projects, such as hybrid cloud implementation of OpenStack/VMware vCloud/AWS IasS and integration of high performance storage, network, and compute stacks for continuous integration/deployment agile development environments, from proof of concept through hands on implementation, with full accountability for timelines, milestones, risk assessment, and budget.
+Managed various infrastructure and information systems including Active Directory, SQL databases, IP telephony systems, e-mail services, and virtual private networks.
+Led effort to consolidate global server infrastructure, consisting of Windows 2003, 2008, and 2012 as well as Linux RHEL Ubuntu servers to VMware vSphere and Xen platforms, using Physical-to-Virtual P2V and Virtual-to-Virtual V2V migration techniques. Overall gains include: reduction of server hardware footprint by 50 , improved server availability, reduced workload for IT staff, and automation of server deployments for various business units.
+Completed global data center migration and relocation to EU based Equinix managed service facilities.
+Streamlined cloud resource provisioning using automation tools Puppet and VMware Orchestrator vCO .
+Implemented global monitoring system using Nagios and instituted SLAs for critical infrastructure services.
+Developed IT strategic roadmap and global enterprise technical architecture to position the company for growth.
+Designed organization-wide programs to stabilize the infrastructure, driving large-scale projects for global product development, business development, data warehousing, business intelligence, customer relationship management CRM , and communication infrastructure development.
+Created a tremendously effective approach for team development by reinforcing commitment to the team, to
+ITIL practices, and to change management processes while increasing productivity and improving consistency.
+Embedded IT teams into the corporate business structure such that they became trusted business partners.
+Managed geographically dispersed teams and resources throughout Europe Netherlands, Ireland, and United Kingdom .
+Worked with senior management to define short and long term strategic direction.
+Improved global WAN connectivity and content distribution using optimization technologies Silver Peak and Riverbed and CDN solutions Akamai .
+Negotiated vendor contracts for maximum ROI and cost containment. Reduced contract with VMware by 70 and cut telecommunications cost by 30 .
+Complete ownership and management of critical infrastructure operations, line-of-business applications, and software development life-cycle environments such as JIRA, Maven, Sonar, Git, and Jenkins.
+Confidential
+Consultant
+Project:
+Led project efforts through full lifecycle, including requirements gathering, scoping, implementation, operational handoff, and review.
+Researched, evaluated, and managed the implementation of new VMware technologies into production.
+Performed capacity analysis using integrated tools and discovery/modeling techniques such as what if scenario modeling.
+Engineered and administered vSphere clustered resources for high availability.
+Designed and developed automation components within VMware infrastructure environments using scripting languages such as PowerCLI and vCLI.
+Collectively responsible for enterprise application lifecycle including web/application servers, N-tier environments and full system lifecycle management.
+Participated and lead efforts to evaluate, test, and introduce new technology and approaches.
+Provided hands on support of system standards, server management, software deployment support, systems administration, and data integrity and recovery.
+Confidential
+Senior Infrastructure Consultant assisting in multiple areas of data center transformation including systems consolidation, virtualization, cloud computing, servers, storage, networks and operations.
+Assisted in global transition of in-house security platform to a managed outsourced cloud PaaS provider throughout EMEA and Latin America regions.
+Developed tools and techniques required to streamline project delivery and execution.
+Coordinated and communicated policy/procedural changes with application owners and management.
+Collaborated with business management to ensure data center solutions were aligned with business requirements.
+Provided guidance to outsourced engineering resources as well as in-house staff regarding infrastructure related initiatives.
+Confidential
+Responsible for standard builds of VMware ESX Server operating systems including Infrastructure and Security components.
+Published RFT Request for Testing , RFC Request for Comments , and Release Notes Production Release Notes .
+Developed and customized vCLI and PowerCLI scripts for SOE Standard Operating Environment vSphere builds in Perl and PowerShell.
+Led proof of concept efforts and laid out operating/implementation procedures for vSphere vNetwork Distributed Switch, Nexus 1000V, and Site Recovery Manager among different hardware platforms.
+Developed and customized a kickstart install solution for ESXi servers.
+Integrated customized solutions for Virtual Machines and Operating System provisioning utilizing VMware APIs and SDKs.
+Worked with product vendors and department heads to define technology roadmaps and improve support models.
+Worked with engineering teams to develop standard processes and procedures to achieve audit and regulatory compliance.
+Managed internal VMware lab administration activities such as deployment, installation, and upgrade of VMware ESX Server and related vSphere components.
+Confidential
+Confidential
+Information Technology Manager / Engineer
+Responsible for strategic planning and managing all IT operations software development projects.
+Provided IT Manager responsibilities in developing, supervising, and producing operational standards for crisis management, and business continuity procedures.
+Led and acted as a Project Manager for the Capital Markets platform with diverse responsibilities including: OMS solutions, Portfolio Management solutions, IPC communications system implementation, and Market Data integration.
+Developed and delivered virtualization ROI and solution benefits for business review.
+Supervised, managed, hired, and trained junior staff members for efficiency, mentoring, and the smooth delegation of workflow assignments resulting in team unity.
+Assisted with the deployment of Cisco Unified Communications VoIP telephony system for all the national and regional U.S. offices.
+Led enterprise effort to migrate data center to a new facility with a 5X footprint. Facilitated the transition of systems and network infrastructure as well as migration of line of business applications.
+Efficiently provided expert knowledge of system upgrades, strategic planning, infrastructure capacity planning, software development methodologies, system analysis, and disaster recovery.
+Coordinated and implemented all aspects of the relocation of IT operations to a new location, upgrade system conversions integrations, and implemented new business applications.
+Developed and cultivated vendor relationships resulting in cost effective business services contracts
+Developed and delivered IT Services Management ITSM solutions based on ITIL best practices.
+Key contributor to VMware virtualization deployment and server consolidation project.
+Maintained multi-site VMware virtual server environment.
+Migrated physical servers to virtual environment using P2V. Gains included improved department-wide systems and network efficiency and reduced energy costs.
+Participate in evaluations and proof of concept support for VMware virtualization products.
+Spearheaded efforts to implement Microsoft Unified Communications platform.
+Provided efficient management of overseeing operational policies, processes, and strategies for maximum efficiency.
+Handled back-office infrastructure support, resolved technical issues, and maintained computer system efficiency and functionality.
+Acted as a liaison with department heads, senior management, vendors, and contractors to strategize on global initiatives.
+Handled and resolved technical issues and provided technical recommendations for upgrades increased system security.
+Managed and maintained the efficient spending and cost/evaluation of operational budgets.
+Negotiated and redefined terms and conditions for all aspects of departmental agreements and contracts.
+Implemented trading floor systems, oversaw infrastructure design, management, and monitoring systems environment to increase efficiency and profitability.
+Responsible for designing NY data center which included: server and network infrastructure set-up, hardware installations, and critical infrastructure centralized UPS and distributed cooling systems setup and maintenance, and maximizing the efficiency of data integrity.
+Liaised with PM team in the management of various trades, Audio Visual procurement and maintenance, and facilities management.
+Confidential
+Confidential
+Information Technology Manager / Engineer
+Managed all aspects of IT operations and engineering.
+As IT Manager, developed, supervised, and produced operational standards for crisis management procedures.
+Managed data migration project involving the transition of systems and applications from Morgan Stanley to on-premise and colocation environments.
+Act as a liaison with, vendors, clients, and technology service providers.
+Managed the cost-effective development of annual operating budgets and expenditures.
+Played a key role researching concepts, spearhead design, implementing efficient solutions, streamlining business processes, integrating resources, and developed cost effective implementation of software and hardware purchases.
+Performed various IT Engineer responsibilities, duties included: designing and implementing a redundant Windows 2003 Active Directory / Red Hat Linux multi-server environment and Cisco Layer 3 backend.
+Designed and implemented redundant internet firewalls, Microsoft Exchange Server 2003, and monitoring solutions.
+Implemented HP SAN to accommodate Exchange clustering and data storage.
+Responsible for maintaining system tape backups and created disaster recovery plan for data storage and recovery.
+Controlled various networking protocols such as DNS, WINS, LDAP, and DHCP.
+Oversaw configuration auditing analytics solution implementation to help meet SEC regulation standards.
+Maintained the availability of company computer systems including: servers, workstations, laptops, printers and multimedia equipment.
+Recommend, evaluated and purchased all IT assets and equipment.
+Administered and maintained core server applications including: Microsoft Exchange Server 2003, SQL Server 2005, Citrix Presentation Server, and BlackBerry Enterprise Server.
+Developed and implemented Visual Basic scripts with management of day -to- day administrative tasks.
+Implemented security solutions for system integrity and protection.
+Oversaw all levels of business continuity plan/sites, from architecture to management.
+Administered and managed Avaya IP/TDM telephony system.
+PREVIOUS EXPERIENCE:
+Confidential
+Systems / Network Engineer
+Responsible for all Systems Engineering functions not limited to: Administration and maintenance of the server and network infrastructure, designing and implementing migration strategies, overseeing security procedures, upgrades and improvement of Windows and Linux environments, implementing documentation standards, standard operating procedures, change management procedures, and disaster recovery procedures.
+Confidential
+Technical Support Engineer
+Managed and provided level 2 support for MessageLabs' external client base by maintaining all e-mail operations in a variety of mail platforms such as Qmail, Sendmail, Postfix, and Microsoft Exchange Server.
+Belzberg Financial Markets News Inc.: New York, NY June 2002 - April 2003
+Data Center Manager
+Managed the NY Tier 4 data center build-out by designing, configuring, and organizing a data center infrastructure for complete redundancy.
+Confidential
+Network Administrator
+Administered the day-to-day 24/7 operations of a Windows NT/UNIX LAN/WAN infrastructure.

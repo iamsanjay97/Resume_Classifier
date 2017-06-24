@@ -1,0 +1,86 @@
+Name:
+E-mail: 
+Phone: 
+
+Summary
+
+- Data Analytics Professional with 4 years of experience in retail management and banking industry applying SAS programming performing Data analysis, Profiling and Composite report 
+
+generation at WNS Global Services (P) Ltd, Bangalore
+-SAS Certified Base Programmer for SAS9
+-Good experience in Data Extraction, Modification, Validation, Analysis, Management and Reporting using SAS Software
+-Experience in SAS/BASE, SAS/SQL, SAS/ODS, SAS/ACCESS, SAS/STAT AND SAS/MACRO.
+-Extensive programming experience with various procedures like PROC FREQ, PROC TABULATE, PROC REPORT, PROC SUMMARY, PROC MEANS, PROC FORMAT, PROC TRANSPOSE and PROC SQL.
+-Knowledge of Profiling, Segmentation, Campaigning, creating and running SQL queries on Oracle 10.2.
+-A consistent track record of successfully employing best business practices that improve efficiency, whilst increasing productivity at given time scales and within budget.
+
+Work Experience
+
+-Working as Sr. Data Analyst at ABC Services (P) Ltd, Bangalore from Aug’ 20XX to till date.
+
+Technical Knowledge
+
+SAS Products - SAS/BASE, SAS/MACROS, SAS/SQL, SAS/STAT, SAS/ODS, SAS/ACCESS
+Languages - SAS, SQL & HTML
+Tools - MS Office – Excel, PowerPoint, Word, Outlook
+Databases - Oracle, SQL Server, MS-Access
+Operating Systems - Windows 95/98/ XP, MS-DOS
+
+Projects Undertaken
+
+Title: 
+Client: 
+Role: Sr. Data Analyst
+Team Size: 
+Environment: BASE SAS 9.3(SAS Macro, SAS/Access, SAS SQL), MS Power Point, MS-Excel
+
+Roles & Responsibilities:
+
+-Extracted data from Oracle created datasets and analyzed it for baseline characteristics 
+-Used Proc append in loading to append the data to existing data
+-Validating data using SAS functions and procedures.
+-Summarizing data using DATA Step, Proc SQL, Proc Format, Proc Sort, Proc Means & Proc Summary
+-Tracked campaign performance, performed market research and segmentation analysis using SAS, Excel to get the potential target customers and identify the market trend and opportunities
+-Developed and planned CART, regression response and risk models prior to campaign date to maximize the penetration of the mail file
+- Provided actionable analyses with advanced statistical concepts and strategic recommendations to solve business problems using SAS, and CART
+
+Title: 
+Role: Data Analyst	
+Team size: 04
+Environment: SAS 9. (SAS/Base, SAS/Stat, SAS/Graph, SAS/SQL, SAS/Macros, SAS/Access) MS-Excel, SAS EG
+
+Roles & Responsibilities:
+
+-Creating SAS datasets by extracting data from Excel, Flat. Files.
+-Sub setting dataset using set, merge, sort, update and conditional statement.
+-Merging and summarizing data using different procedures. 
+- Maximized marketing performance through development of client file strategies, key market segments, optimization, products, list selections and models 
+-Contributed to the portfolio risk analysis using SAS and CART, improved the net profitability and money collection rate
+-Ensured accurate execution of all statistical models, and list processing
+
+Achievements
+
+-Won Gold Medal for scoring Distinction and the best project in Finance MBA, IBMR 2012, Bangalore
+-WCT – WNS Certified Trainer 2012, Bangalore
+---
+---
+---
+
+Educational Qualifications: 
+
+--
+--
+--
+
+Certifications:
+
+Certification 
+WCT – WNS Certified Trainer, from WNS Learning Academy, Bangalore
+Certified Base Programmer for SAS 9, US 
+
+
+Personal Details: 
+
+Date of Birth: 
+Languages Known: 
+Address:

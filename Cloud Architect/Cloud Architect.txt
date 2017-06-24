@@ -1,0 +1,58 @@
+XXXX XXXX
+XXXX, Brooklyn, NY 11235
+XXX-XXXX-XXX Cell: XXX-XXXX-XXX
+XXXX@XXXX.XXX
+CAREER OVERVIEW
+Passionate IT Professional with seven years of experience in enterprise architecture, systems administration, and virtualization. A proven track record of success leading complex projects while managing cross-functional resources to drive efficiency in enterprise technology operations. 
+CERTIFICATIONS AND SKILLS
+AWS Certified - Solutions Architect - Associate Level - (2015)
+AWS Certified - Developer - Associate Level - (2015)
+AWS Certified - SysOps Administrator - Associate Level - (2015)
+MCTS - Windows 7 Configuration (2012)
+MCTS - Active Directory (2012)
+Experienced Team Lead
+Capacity and Scalability Planning
+Cloud Architecture and Automation
+Client Relationship Management
+Technical Writing
+Network Administration
+IT Project Management
+Systems Administration
+CAREER HIGHLIGHTS
+ - Implemented cloud architectures as part of a team for companies looking to minimize cost while having the ability to deliver their application in a highly available, scalable and manageable environment using AWS
+- Architected back up and recovery solutions for companies looking to utilize AWS as a DR or backup/archive solution
+- Successfully managed large scale IT infrastructure deployments for New York Presbyterian Hospital, to include a complete infrastructure build out for a newly constructed building
+- Regularly briefed executive leadership regarding project timelines, budgets and milestone deliveries
+- Served as the single point of accountability for client satisfaction across multiple IT infrastructure projects
+WORK EXPERIENCE
+RELIABLE CLOUD SERVICES INC.
+Brooklyn, NY
+Cloud Solutions Architect 10/2014 to 05/2015
+Aegis Identity Software, Inc.
+- Planned and implemented a complete cloud infrastructure based on the budgetary requirements and future objectives set forth by management.
+- Assisted with the implementation of automation and provisioning tools like Vagrant/Chef/Jenkins for continuous integration of their applications. 
+- Created Alerts and configured monitoring of specified metrics to manage their cloud infrastructure efficiently.
+QUINN EMANUEL URQUHART & SULLIVAN LLP
+New York, NY
+Network Administrator 03/2014 to Current
+- Troubleshoot firm-wide network issues.
+- Monitor different metrics of our virtual environment and respond to Alerts pertaining to any malfunctioning resources. (VMWare, Citrix)
+- Manage all levels of IT upgrade projects including build out of new floors for the firm.
+- Create technical documentation of procedures and policies for troubleshooting purposes.
+- Identify product issues and strengths and collect data on the customer experience. (Hardware and Software)
+- Participate in meetings with our technical specialists to manage our IT environment more efficiently by introducing new tools and services.  
+- Provide IT training for all Attorneys and Staff including new members to the IT team. (1-20 users)
+DERIVE TECHNOLOGIES
+New York, NY
+IT Project Lead (New York Presbyterian Hospital) 02/2008 to 03/2014
+- Managed and lead projects from conception to implementation. 
+- Coordinated with the Network Engineers and Systems Administrators to plan and implement redundant Network solutions to mitigate downtime in case of outages.
+- Lead a team of 5 people to ensure premium quality work and timely delivery of projects.
+- Provided technical support for up to 12,000 end-users for hardware and software issues by consulting with customers via phone, email, and in person.
+- Compiled support documentation for new technologies being introduced to the Hospital's IT infrastructure.
+EDUCATION
+BACHELOR OF ARTS: ECONOMICS 2010
+Queens College (CUNY), Flushing, NY, USA
+TECHNICAL SKILLS
+Windows Server 2003/2008R2, Windows XP/Vista/Windows 7, Microsoft Office 2003-2013, BES 4.1.6/5.0.3, Citrix XenAPP 6.0, VMWare ESXi 4.1, VMware VCenter, Maas360 (Mobile Device Mgmt), Sophos, Norton Ghost, MDT 2010, Total Uninstall, Skire Unifier by Oracle, Team Viewer, LANDesk, AVST Voicemail System, Bomgar, SCCM 2010, Vagrant, Linux, Chef, Jenkins, Amazon Web Services DevOps/SysOps
+Build Your Own Now

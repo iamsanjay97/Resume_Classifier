@@ -1,0 +1,55 @@
+Jessie B. Scott
+2020 Meadow Drive
+Neihart, MT 59465
+(406) 236-9726
+jessie_scott@email.com
+
+Career Objective:
+
+Cloud Application Platform Architect with over 6 years of total experience in the development and implementation of architectural solutions, seeks an opportunity to utilize the best of skills and expertise in Enterprise Java Application Architecture, for subsequent growth as an active participant in an ongoing business process.
+
+Executive Summary:
+
+Enabled easy sharing of technical resources and developmental costs, and the centralization of infrastructure across a large integration of users
+Involved in bulk data processing, including consumer statistics, census, industrial reports, and financial transactions
+Optimized the utilization of data systems, and improved the efficiency of security and storage solutions by control and prevention of loss of sensitive data
+Designed, developed, and updated cloud infrastructure solutions by simplification and automation of critical business processes through scripting and associated tools
+Collaborated with marketing professionals, software engineers, and product managers for potential support and further tuning of established architectural protocols
+Subject matter expert in information storage, sizing, multi-tenancy, peak-load capacity, and virtualization
+Experienced in the development of custom Java applications and networking solutions
+Developed sound understanding of Web and Spring frameworks, familiar with the advantages of dependency injection
+Key Skills:
+
+Fundamental knowledge of autonomic, grid, and mainframe computing
+Database management: MS SQL Server, Oracle, MySQL, DB2
+Closely familiar with open source cloud and application platforms
+Experienced in Oracle Weblogic, VMware CloudFoundry, IBM Websphere, Jboss, Tomcat, and ORM mapping tools
+Proficient user of Windows, Mac, and Linux operating systems, with in depth knowledge of essential troubleshooting techniques
+Highly efficient in critical analysis, quality and performance testing and analysis, server troubleshooting, project administration, and disaster recovery
+Professional Experience:
+
+2008 - 2012
+Cycrest Systems - Spokane, WA
+Application Platform Architect
+
+2003 - 2006
+KQNT - Spokane, WA
+Solutions Developer - Storage and Security
+
+1997 - 2003
+Tometa Software
+Sr. Software Engineer
+
+Education:
+
+MS in Information Systems	2008
+Interface college - Spokane, WA
+Placed in grade A
+
+Bachelor's degree in Computer Science	1996
+International Academy of Design and Technology - Seattle, WA
+Placed in grade B
+
+References:
+
+Available upon request

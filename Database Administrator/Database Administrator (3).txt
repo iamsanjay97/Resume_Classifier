@@ -1,0 +1,68 @@
+
+Career Summary
+Over SIX years’ of experience in IT Industry working as a DBA in Development.
+Had done various projects using RMAN for Backup and recovery, Data guard for Disaster recovery, Installation, Configuration, Migration, upgrade, cloning, patching, Performance Tuning.
+Excellent experience in Installation and configuration of different databases on Operating Systems UNIX and Windows platforms.
+Planned and scheduled the Physical (Cold / Hot) backups as well as Logical backups.
+Experience in management tools like Oracle Enterprise Manager, TOAD and SQL Developer.
+Knowledge of Real Application Cluster (RAC).
+Provided 24x7 Remote / on-call production supports.
+Technical Skills
+Operating System: Window NT 4.0, Solaris, Red Hat Linux 5.0, 5.4
+RDBMS: Oracle 8i, 9iR2, 10gR1 & R2, 11gR1 & R2
+Tuning Tool: TKPROF, EXPLAIN PLAN, AWR, ADDM
+Backup Tool: Cold, Hot backup, RMAN, Import/Export
+Tools: SQL Plus, Oracle Enterprise Manager (OEM), SQL * Loader
+Script: UNIX/Linux shell script
+Language: SQL, PL/SQL, Java, VB
+Web Technology: HTML, XML
+Virtual Machine: VM Ware server 2.0 to 2.2, Oracle VM Virtual box 4.0
+BPM: PEGA 5.5v
+Professional Certification
+Oracle 10g Certification
+Professional Experience
+Company : ASD, Mumbai Jan' 10 - Present
+Role : Sr. Database Administrator
+
+Responsibilities
+Installed and configured Oracle Database on Red Hat Linux Advance Server on Development.
+Involved in performance monitoring and tuning of the database.
+Involved in backup and recovery tasks using RMAN.
+Involved in disaster recovery planning.
+Implemented database backups and disaster recovery strategies using RMAN. Developed technical documentation for disaster recovery.
+Work beyond regular hours based on business demands. Provided 24x7 on-call production supports.
+Environment: Oracle 11g, RMAN, Functions and Triggers,Linux Servers
+
+Company : MNM Mumbai, May '07- December 2009
+Role : Database Administrator
+
+Responsibilities
+Responsible for installing, upgrading and configuring the Oracle environment by creating multiple databases, storage structures and objects, database backup and recovery, monitoring and optimizing database performance.
+Create & Managing Database Structure, Storage Allocation.
+Used RMAN for backup and recovery jobs.
+Trace the SQL.
+Trace the frequently called procedures/packages and pinning them to improve the performance.
+Worked extensively on Performance Tuning, RAW Devices.
+Cloned databases using scripts.
+Setup and configuration of Data guard.
+Responsible for Load and Performance testing of the database servers and application servers.
+Environment: Oracle 9i/10g, LINUX, Windows 2003 server, SQL server
+
+Company : CVS Pune June 2005 - February 2007
+Role : Jr. DBA
+
+Responsibilities
+Involved in installation and configuration of database 9i on Windows NT.
+Involved in creating and managing users and objects.
+Involved in assigning roles and privileges to different users.
+Inspected log file, monitored table spaces and partitions.
+Involved in creating tables, indexes and views. Hot and cold backup.
+Environment: Oracle 9i, UNIX Windows NT / 2000
+Education
+Post Graduate of Science in Information Technology from mumbai university.
+Bachelor of Science in Applied Science from Pune university.
+Personal Details
+Languages known: English, Marathi, Gujarati, Hindi
+Hobbies: Traveling
+Date of Birth: *7/06/19**
+Address:Pune, Maharashtra

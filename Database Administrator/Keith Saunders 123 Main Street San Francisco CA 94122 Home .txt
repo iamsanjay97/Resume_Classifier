@@ -1,0 +1,38 @@
+Keith Saunders
+123 Main Street, San Francisco, CA 94122
+Home: 000-000-0000 | Cell: 000-000-0000
+email@example.com
+Professional Summary
+Strongly focused and knowledgeable Entry Level Database Administrator with a wide breadth of software installation and maintenance knowledge. Expert communicator of complex technological concepts to professional and non-professional audiences. Leader of independent workshops in computer software design and implementation in the broader professional community.
+Core Qualifications
+Exceptional expertise in Sybase Oracle and SQL Server
+Superior familiarity with LINUX Windows and Windows XP
+Strong proficiency in relational database management
+Outstanding facility with load balancers routers and switches
+Excellent knowledge of database installation and configuration principles
+High experience in database architecture and program design
+Good communication and interpersonal skills
+Experience
+Database Administrator6/1/2013 - Present
+KineTech CorporationLincoln, NE
+
+
+Conducted SQL Server production database analysis on a regular basis.
+Performed troubleshooting for LAN problems for individual client basic software.
+Provided customer assistance and support pertaining to database system queries and complaints.
+Installed administered and updated Oracle database tools and systems.
+
+
+Education
+Master's Degree - Computer Science2013
+University of NebraskaLincoln, NE
+
+GPA 4.0 on a 4.0 scale
+
+Bachelor's Degree - Computer Science 2011
+University of NebraskaOmaha, NE
+
+GPA 3.58 on a 4.0 scale
+Awards and Certifications
+2013 MCDBA (Microsoft Certified Database Administrator) Certification 
+2009 National Merit Finalis

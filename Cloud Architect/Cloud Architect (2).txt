@@ -1,0 +1,51 @@
+XXXX XXXX
+XXXX, LaGrange, KY 40031 | XXX-XXXX-XXX C: XXX-XXXX-XXX | XXXX@XXXX.XXX
+Career Overview
+Experienced Cloud Architect adept at solution design, implementation, administration, and troubleshooting.  Commited team member who plays a key strategic role in the organizations technical direction and product development lifecycle.
+Skill Areas
+Strong analytical skills
+Excellent problem solving skills
+Systems Architecture Desgin
+Product Development
+Windows Server 2003-2012
+RHEL/CentOs 5-7
+MS SQL 2005-2014
+vSphere 3-6
+Networking Technologies
+Storage Technologies (SAN & NAS)
+Disaster Recovery Solutions
+Vendor evaluation and selection
+Vetting emerging technologies
+Agile Methodology
+REST/SOAP APIs
+Automation of operational procedures
+Accomplishments
+As the lead Architect for large Cloud Service Provider, I continually play a key role in the successfully delivery of a high performance, highly available, highly scalable cloud infrastructure as a service. 
+Work Experience
+Cloud Architect Jul 2013 to Current
+Hosting.com - Louisville, KY
+As a member of the most senior technical team in the organization, I am responsible for service design, technology evaluation and selection, as well as emerging technology research in support the organization's cloud products.  I also assist with key customer engagements and well as root cause analysis for service outages when necessary.  
+Platform Engineer Jun 2009 to Jul 2013
+Hosting.com - Louisville, KY
+I was responsible for the entire product life cycle including the design, development, implementation of technical services for external and internal customers.  I served as the technical lead on project teams.   I worked with product managers, software engineers, operations and other product stake holders on a daily basis to deliver the technical initiatives of the company. 
+Systems Engineer Jun 2005 to Jun 2009
+Hosting.com - Louisville, KY
+Designed, implemented and administered the company's first multi-tenant Cloud infrastructure.   I lead several technical areas including the server farm, Storage Arrays, Storage networks (FC and Ethernet) switching infrastructure.     I also facilitated system integration and migrations during three company acquisitions.  During this time I served as a technical escalation point internally and assisted with sales engineering.
+Tech Support I, II, & III Jun 2001 to Jun 2004
+Hosting.com - Louisville, KY
+Initially I supported all customers technical needs for at all levels.   Over time as our customers grew and their solutions became more complex, I served as the technical lead in supporting our advanced hosting and highest paying customers.    
+Education and Training
+BBA, Computer Information Systems 2000
+Western Kentucky University - Bowling Green, KY, USA
+Routing and Switching 2001
+Cisco Networking Academy - Louisville, KY, USA
+VCP3, vSphere 3: Install, Configure, Manage 2007
+VMware Education - Chicago, IL, USA
+VCP5-DCV, vSphere: What's New v5.0 2012
+VMware Education - Louisville, KY, USA
+VNX Block Storage Deployment and Management 2012
+EMC Education - Chicago, IL, USA
+Introduction to the Junos Operating System 2014
+Juniper Education - Louisville, KY, USA
+Vormetric Data Security Solution - Encryption Services 2015
+Vormetric Education - Louisville, KY, USA

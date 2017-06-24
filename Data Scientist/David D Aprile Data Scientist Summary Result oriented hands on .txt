@@ -1,0 +1,20 @@
+David D’Aprile, Data Scientist
+Summary
+Result-oriented, hands-on freelance professional, with a successful record of accomplishments in ICT project management, as well as in academic research. Major strengths include strong leadership and capacity to work as a team player, as well as excellent communicational skills. The professional attitude is grounded in the cross-cutting knowledge of the academic, technical, and managerial ?elds. Attention to detail, as well as supervisory skills including hiring, termination, scheduling, training, and knowledge of business administration, complete the pro?le.
+Education
+Ph.D. degree in Computer Science, 2003–2006 / Università degli Studi di Torino, TURIN, ITALY. Final dissertation: Timed and Stochastic Model Checking of Petri Nets
+Master’s degree in Computer Science, Cum Laude, 1995–2002 / Università degli Studi di Torino, TURIN, ITALY. Final dissertation: Speci?cation and Analysis of real-time systems
+Experience
+Data Scientist, ENNOVA, MILAN, ITALY, January 2013–Present
+I participated in an integration and digitalization project for Vodafone/Teletù. In addition, I was involved in a data monetization project. We used the following technologies/tools: R, Python, D3.js, MongoDB, Android SDK, and iOS SDK.
+Project Manager/Postdoctoral Research Assistant–Capgemini/Università degli Studi di Torino, TURIN, ITALY, July, 2012–June, 2013
+I recruited and led an international team of eight computer science experts involved in an Enterprise Application Integration project. We run a challenging project based on the integration of Microsoft Dynamics AX, CRM, and Microsoft SharePoint components. Speci?cally, we analyzed, designed, and implemented a Service Management System prototype, which provides a number of maintenance processes and uses some key performance indexes devoted to measuring the QoS of the offered maintenance service. In addition, we designed and developed a mobile application, using the Windows 8 platform to let an on-the-?eld exploitation of the maintenance system’s capabilities.
+Project Manager, Synesthesia , TURIN, TALY, January, 2011–January 2013
+Management activity on mobile app projects. Synesthesia is a startup company, whose core business is deeply grounded on designing and developing mobile applications for almost all platforms, using both the native approaches and the cross-platform ones. My collaboration with Synesthesia was mainly devoted to project management tasks, as well as presales activities.
+Management Skills
+A deep and broad experience on theoretical and practical project management methodologies and tools. Methodologies: PMI’s PMBOK (ANSI/PMI 08-004-2008), Agile (Scrum), and Microsoft Sure Step
+System/Data Modeling and Analysis Skills
+A wide range of system and data modeling and analysis capabilities, acquired during my Ph.D, and Post-doc experiences. They include the following list:
+Predictive Analytics, Regression techniques, Linear regression, Discrete choice, Time series, Survival analysis, Decision Tree Learning, Machine Learning techniques , Neural networks, MLP, RBF, SVM, Naïve Bayes, and KNN
+Timed and Stochastic Analysis: Model checking of Generalized Stochastic Petri Nets and Stochastic Well-formed Nets against Timed Computational Tree Logic and Continuous Stochastic logic. Model checking of Timed Automata against a number of Probabilistic Logics.
+

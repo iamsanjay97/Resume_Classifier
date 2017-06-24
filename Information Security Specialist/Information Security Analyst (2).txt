@@ -1,0 +1,55 @@
+OBJECTIVE: To resume my career as a successful Information Security Analyst in a major global organization within the greater Seattle area.
+
+QUALIFICATION SUMMARY: The ability to serve as a corporate security guru by ensuring technical security planning, testing, verification and risk analysis in accordance with TCP/IP protocols. Capable of defining, deploying and monitoring risk management, compliance, and information security programs while functioning as a primary IT disaster recovery coordinator.
+
+RECENT ACTIVITIES:
+
+CISM (Certified Information Security Manager) in progress
+Attendee, Seattle Tech-Security Conference January 2013
+Founder and Contributor: Know Your Enemy, a blog for corporate information security professionals www.knowyourenemy.com
+Member, ASIS International Puget Sound
+KEY COMPETENCIES:
+Monitoring
+
+Monitor the security of critical systems (e.g., e-mail servers, database servers, web servers, etc) and changes to highly sensitive computer security controls to ensure appropriate system administrative actions, investigate and report on noted irregularities.
+Conduct network vulnerability assessments using tools to evaluate attack vectors, identify system vulnerabilities and develop remediation plans and security procedures.
+Ensure organizational compliance with CFCU information security programs.
+Manage the SIEM infrastructure.
+Conduct routine social engineering tests and clean-desk audits.
+Investigate potential or actual security violations or incidents in an effort to identify issues and areas that require new security measures or policy changes.
+Strategy Development
+
+Research new developments in IT security in order to recommend, develop and implement new security policies, standards, procedures and operating doctrines across a major global enterprise.
+Define, establish and manage security risk metrics and track effectiveness.
+Coordinate with third parties to perform vulnerability tests and create security authorization agreements and standards.
+The ability to balance risk mitigation with business needs.
+Disaster Recovery
+
+Collaborate with business units to determine continuity requirements.
+Conduct business impact analysis for vital functions; document recovery priorities of the key processes, applications and data.
+Establish disaster recovery testing methodology.
+Plan and coordinate the testing of recovery support and business resumption procedures while ensuring the recovery and restoration of key IT resources and data and the resumption of critical systems within the desired timeframe.
+PROFESSIONAL EXPERINCE:
+Information Security Analyst, ABC Company (formerly Big Tech) 2010-2012
+Conducted incident prevention, detection/analysis, containment, eradication and aid recovery across IT systems until the company was acquired in 2012.
+
+Identified vulnerabilities, recommend corrective measures and ensure the adequacy of existing information security controls.
+Educated business unit managers, IT development team, and the user community about risks and security controls.
+Prepared detail practices and procedures on technical processes
+Analyzed security incidents and presented a quarterly report to the CIO.
+Network Security Specialist, XYZ Company 2007-2009
+Provided 24/7 network surveillance and configuration recommendations for over 200 computers and multiple network area storage devices on a global WAN spanning United States, England, Germany and South Africa until the company lost a major contract.
+
+Performed security research, analysis and design for all client computing systems and the network infrastructure.
+Developed, implemented, and documented formal security programs and policies.
+Monitored events, responded to incidents and reported findings.
+Utilized Security Information and Event Management (SIEM), Intrusion Detection & Prevention (IDS / IPS), Data Leakage Prevention (DLP), forensics, sniffers and malware analysis tools.
+TECHNICAL SKILLS:
+Unix/Linux/Windows /IntruShield / Foundstone Scanner / ePO, Fortify 360, Firewalls, Citrix, Cisco VPN / Secure, Netilla, Tufin, Envision, BlueCoat, ProofPoint, Voltage, Active Directory and Radius
+
+EDUCATION AND CERTIFICATIONS:
+Bachelor’s Degree in Computer Science University of Washington
+CISSP (Certified Information Systems Security Professional)
+
+123 Any Street | Tempe AZ 85280 | (000) 267-8910 | gmail@gmail.com
+www.AlonzoRodriguez.com

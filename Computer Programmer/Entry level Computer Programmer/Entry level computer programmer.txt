@@ -1,0 +1,64 @@
+
+COMPUTER PROGRAMMER
+
+ENTRY-LEVEL COMPUTER PROGRAMMER
+
+
+	Honors student of ABC University’s BS in IT program. Academic credentials are reinforced by programming experience gained during internship with ABC Company.
+
+
+	Consistently commended by professors and internship supervisorfor programming abilities, grasp of multiple technologies and attention to detail.
+
+
+	Strong knowledge of object-oriented programing and application development tools using Microsoft VB.Net, C#, .Net, C++, ASP.Net; Python and VBA.
+
+
+	Known as a self-starter, team player and multitasker--strive to consistently exceed expectations.
+
+Education
+ 
+ABC UNIVERSITY - Sometown, NH
+Bachelor of Science, Major in Information Technology Program, Currently Enrolled, GPA: 3.85/4.0
+
+
+	Honors: Graduated cum laude (GPA: 3.53); inductee, Golden Key Honor Society; recipient, John Doe Academic Scholarship; Dean’s List, 2009, 2010, 2011.
+
+
+	Senior Project: Earned “A” grade on capstone project as co-developer of Web-based, customized enterprise software solution that integrated business processes for a nonprofit organization. Delivered turnkey application that reduced manual data entry, saving hundreds of personnel hours monthly.
+
+
+	Course Highlights: Enterprise Application Development, Security, Java/C/VB Programming, IT Project Management, Database Programming, Web Design, Computer Architecture
+
+Internship
+
+ABC Company, Sometown, NH
+Computer Programmer Intern, 2016 to Present
+
+Selected for nine-month internship out of more than 150 applicants.
+Selected accomplishments:
+
+	Handled database and Web site programming tasks (primarily using Java, C, C++, HTML and SharePoint), working an average of 15 hours per week while maintaining a 3.5 GPA.
+
+
+	Redesigned Internet and intranet pages. Used SEO best practices to optimize Web site for search engine rankings and improved functionality of company database.
+
+
+	Resolved memory corruption and other technical issues by leveraging strengths in coding, debugging and integration testing.
+
+Technology Summary
+
+	Programming/Languages: VB.Net; C#; .Net; C; C++; ASP.Net; Python, VBA, Java, Visual Basic; SharePoint; PHP; MySQL; HTML; Ant
+
+
+	Databases Management: Oracle 8.x/9.x, SQL Server, MS Access
+
+
+	Design & IDE Tools: Rational Rose, UML, WSAD, Oracle WebLogic Server
+
+
+	Systems: Windows Server 2016, Linux/Unix, Mac OS X
+
+Volunteer Work
+
+	Volunteered during summers for Habitat for Humanity and ABC Homeless Shelter.
+

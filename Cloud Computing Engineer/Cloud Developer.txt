@@ -1,0 +1,41 @@
+Sara Temple
+123 Main Street, San Francisco, CA 94122
+Home: 000-000-0000 | Cell: 000-000-0000
+email@example.com
+Professional Summary
+Highly skilled Cloud Computing Engineer has exceptional development ability and extensive knowledge of programming in Xnix.Has excellent analytical and problem-solving skills and a strong ability to work with minimal supervision.Has a Bachelor's Degree in Computer Engineering and four years of experience working as a cloud computing engineer.
+Core Qualifications
+Extensive knowledge of programming in Xnix
+Proficient with Ruby Python and Perl scripting languages<
+Good problem solving skills
+Deep knowledge of SQL/PLSQL
+Solid understanding of Java
+Proficient with Puppet and Chef deployment tools
+Experienced with building deploying and troubleshooting web services
+Solid experience with and understanding of AWS
+Experience
+Cloud Computing Engineer6/1/2012 - 7/1/2014
+Howell and Associates Inc.New Cityland, CA
+
+
+Focused on improvements to build and deployment tools.
+Primarily used Ruby to write cloud computing applications.
+Worked with cutting edge cloud technology using Heroku and Hadoop.
+Communicated any issues with supervisor and participated in weekly meetings.
+Developed hybrid cloud delivery model allowing for customers to choose the mix of public and private clouds to meet their individual needs.
+
+
+Cloud Computing Engineer5/1/2010 - 5/1/2012
+Pierre Solutions Inc.New Cityland, CA
+
+
+Utilized Perl and Python for cloud engineering.
+Worked within a Java progamming structure.
+Worked as an integral part of the development team with troubleshooting development and maintenance of systems.
+Worked with the development team to create appropriate cloud solutions for client needs.
+Reported all issues.
+
+
+Education
+Bachelor's of Science Degree - Computer Programming2010
+California Pacific UniversityNew Cityland, CA

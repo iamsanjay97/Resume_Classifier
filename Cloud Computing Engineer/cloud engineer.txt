@@ -1,0 +1,76 @@
+Andrew Pierre
+2283 Godfrey Street
+Hillsboro, OR 97123
+(222) 783-5560
+Email : [email]
+Career Goal
+A talented and industrious professional seeking employment in your esteemed organization as a Cloud Computing Engineer and share my expertise in VMware, Sun Solaris, Amazon AWS, Linux Ubuntu and J2EE.
+Technical Skills
+High technical competence to utilize software products and standards like:
+MDA, UML
+Rational Rose
+SOA, Rational Software Modeler
+Proficient in using programming languages:
+
+C, C++, Objective C
+Basic, Java, JavaScript
+Scala, Turbo Pascal
+Adept with cloud computing tools:
+
+Amazon EC2, ELB
+Cloud watch, EBS, RDS, S3
+RightScale, RightScripts
+Expertise in managing version control tools:
+
+PVCS, SCCS
+MKS-VCS,
+Rational Clearcase
+Thorough with testing tools:
+
+JUnit, HTTPUnit
+Cactus, jWebUnit
+WebTest, Cruise Control
+Superb in database administration:
+
+SQL, PL/ SQL
+Oracle, IBM DB2
+MySQL, MS Access
+Exceptionally talented in deploying web application servers:
+
+IBM Websphere
+Tomcat, Borland Application server
+BEA Weblogic server
+Immense capabilities to:
+
+Apply cloud system engineering principles
+Interpret cloud computing technologies and latest trends
+Relevant Experience
+Cloud Computing Engineer
+Booz Allen Hamilton	January 2012 – Present
+Hillsboro, OR
+Supported stress testing and scaling of services by development of testing services and infrastructure.
+Performed functions such as support, performance analysis, troubleshooting and capacity planning.
+Suggested tools and related implementation to engineering teams regarding cloud based services.
+Resolved problems in cloud applications by proper identification as per client requirements.
+Provided reporting and rollout management functions for cloud based services and related security.
+Implemented technical authoring services for application development and support functions such as Contenta and SDL.
+Coordinated with engineering team staff for assembling and development of server and network hardware resources such as Cisco.
+Assisted junior staff with usage of authoring software and Amazon’s cloud applications.
+Cloud Computing Engineer
+Samsung Semiconductor, Inc.	November 2010 – January 2012
+San Jose, CA
+Provided support to sales and marketing activities for driving Wins and generation of maximum revenue.
+Conducted pre-sales technical support services for directing sales force of Windows Azure applications.
+Implemented interfacing functions with product management teams and software developers.
+Executed QA services for enhancing efficiency of technologies and related updates for Cloud Storage applications.
+Designed products, offerings and technologies relating to cloud computing and virtualization along with IT engineering teams.
+Maintained detailed documentation and architectural solutions in IT infrastructure and sales systems.
+Supported tuning and optimization of network performance through use of virtualization and tools.
+Managed configuration and connectivity of customer virtual networks through VMware tools.
+Educational Background
+Bachelor’s Degree in Computer Science
+Our Lady of the Lake College	August 2006 – May 2010
+Baton Rouge, LA
+
+
+ 

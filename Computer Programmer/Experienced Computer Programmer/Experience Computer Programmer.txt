@@ -1,0 +1,105 @@
+SENIOR PROGRAMMER | JAVA SE PROGRAMMER
+
+
+	Lead programmer with a track record of incorporating user and business requirements into cost-effective, secure and user-friendly solutions known for scalability and durability.
+
+
+	Knowledge of commercial and open source software/database engineering tools, design techniques, CASE tools and security standards.
+
+
+	Proven leader and project manager; drive system architecture decisions and lead projects from concept through the release process.
+
+
+	Innovator of next-generation solutions, systems and applications giving companies a competitive edge and producing outstanding results for customers.
+
+Technology Summary
+Java, C, C++/CLI, Python, Visual C++, MySQL, J2EE, C, JavaScript, AngularJS, JQuery, Bootstrap, CSS/LESS/Sass, ActionScript, Perl, PHP, VB.Net, SQL Server, ASP.Net, HTML, XML, SAP, ActiveX, Unix, Linux, AIX, Windows Server 2016/2012, Mac OS X
+Professional Experience
+
+ABC COMPANY -- Sometown, NY
+Lead Programmer, 2009 to Present
+Develop, maintain and support application programs for administrative, Web and mobile systems using Java and related tools. Analyze code for system testing and debugging; create test transactions to find, isolate and rectify issues; and manage a team of three programmers.
+
+Accomplishments:
+
+	Reengineered multiple systems that fueled improvements to productivity, efficiency, uptime and accuracy for global business operations. Developed code, system design and test/QA plans for all solutions and often coordinated the national or international rollout.
+
+
+	Led, architected and participated in the design, testing and deployment of client/server, multitier applications, ActiveX and related components.
+
+
+	Developed new procedures for requirements gathering, needs analysis, testing, scripting and documentation to strengthen quality and functionality of business-critical applications.
+
+
+	Developed large-scale, portable, thread-safe and ultra-high performance foundation and application infrastructure libraries.
+
+
+	Trained and mentored junior programmers in programming methodologies and best practices.
+
+
+	Delivered back-office tools supporting ecommerce initiatives, enabling company to compete more effectively in the marketplace through search-engine optimization.
+
+
+	Served as a core group member in defining and prioritizing technology investments for the next two years, ensuring the alignment of process, technology and business objectives.
+
+
+	Conceptualized, planned, launched and currently chair the Cybersecurity Committee, a company-wide group focused on improving security of the business’ information infrastructure.
+
+DEF COMPANY -- Sometown, NJ
+Lead Programmer, 2005 to 2008
+Led programming tasks including enhancements, maintenance and support for clients’ applications and interfaces. Engineered software products, handling complex analysis and intricate programming to meet project requirements.
+
+Accomplishments:
+
+	Led solutions engineering that involved process automation, macro conversion and functionality enhancement. Replaced time-consuming, error-prone manual processes with elegant, automated solutions.
+
+
+	Developed and implemented cross-platform, Java-based POS system. Completed project under budget and three weeks ahead of deadline.
+
+
+	Coded new solutions that increased availability and scalability by 45% and 75%, respectively.
+
+GHI COMPANY -- Sometown, NJ
+Programmer II / Programmer I, 2004 to 2005
+Help Desk Analyst, 2002 to 2004
+Progressed through promotions, culminating in responsibility for Web-based application programming within high-volume setting. Became adept in analyzing code for system testing and debugging.
+
+Education & Credentials
+ABC UNIVERSITY -- Sometown, NY
+MS in Software Engineering Candidate
+
+DEF UNIVERSITY -- Sometown, NJ
+BS in Computer Information Science
+Certifications:
+
+	Oracle Certified Professional Java SE Programmer (OCPJP)
+
+Recent Seminars:
+
+	Enterprise Java Development
+
+
+	Java SE 7 Fundamentals
+
+
+	Java for Mobile Devices
+
+
+	C++ Programming: Concepts, Design and Implementation
+
+
+	Windows Programming Using Visual C++
+
+
+	Advanced Workshop in Object-Oriented Analysis and Design
+
+
+	Project Lifecycle and Project Management Master Class
+
+Volunteerism
+Little League Coach (Sometown, NY), 2014 to Present
+
+PTA Secretary (Sometown Elementary School), 2015 to Present
+
+Active Volunteer, Special Olympics, 2005 to Present
+

@@ -1,0 +1,66 @@
+Brandon Thomas, Data Scientist
+
+323 Knob Hill Apt. G
+San Francisco, CA 00000
+415.555.1212 | email@gmail.com
+www.dataminer.com
+
+Professional Profile
+
+A former Ruby and Java programmer with newly acquired skills, an insatiable intellectual curiosity, and the ability to mine hidden gems located within large sets of structured, semi-structured and unstructured data. Able to leverage a heavy dose of mathematics and applied statistics with visualization and a healthy sense of exploration.
+
+Education
+
+Grad Certificate, Data Mining 2012University of California, San Diego
+Relevant Courses: Data Mining Methods and Techniques, Data Preparation for Data
+Mining and Advanced Methods and Applications
+B.S. Computer Science 2009San Francisco State University
+
+Core Competencies
+
+Strategic Thinking: Able to influence the strategic direction of the company by identifying opportunities in large, rich data sets and creating and implementing data driven strategies that fuel growth including revenue and profits.
+
+Modeling: Design and implement statistical / predictive models and cutting edge algorithms utilizing diverse sources of data to predict demand, risk and price elasticity. Experience with creating ETL processes to source and link data.
+
+Analytics: Utilize analytical applications like SAS to identify trends and relationships between different pieces of data, draw appropriate conclusions and translate analytical findings into risk management and marketing strategies that drive value.
+
+Drive Enhancements: Develop tools and reports that help users access and analyze data resulting in higher revenues and margins and a better customer experience.
+
+Communications and Project Management: Capable of turning dry analysis into an exciting story that influences the direction of the business and communicating with diverse teams to take a project from start to finish. Collaborate with product teams to develop and support our internal data platform and to support ongoing analyses.
+
+Skills and Tools
+
+¦NoSQL data stores (Cassandra, MongoDB)
+¦Hadoop, MySQL, Big Table, MapReduce, SAS
+¦Large-scale, distributed systems design and development
+¦Scaling, performance and scheduling and ETL techniques
+¦C, C++, Java, Ruby on Rails
+
+Experience
+
+Cool Jeans    San Francisco, CA
+
+Data Analyst2012-present
+
+Work closely with various teams across the company to identify and solve business challenges utilizing large structured, semi-structured, and unstructured data in a distributed processing environment. Develop a new pricing strategy for Total Jeans that boosted margins by 2 percent and analyzed customer buying habits which correctly predicated the resurgence of dark blue denim giving us a jump on the competition.
+
+¦Analyze large datasets to provide strategic direction to the company.
+¦Perform quantitative analysis of product sales trends to recommend pricing decisions.
+¦Conduct cost and benefit analysis on new ideas.
+¦Scrutinize and track customer behavior to identify trends and unmet needs.
+¦Develop statistical models to forecast inventory and procurement cycles.
+¦Assist in developing internal tools for data analysis.
+
+Programmer    2010-2011
+
+¦Coded, tested, debugged, implemented and documented apps using Java and Ruby.
+¦Developed eCommerce solutions and social networking functionality.
+¦Designed, developed and maintained eCommerce and social networking applications.
+¦Built report interfaces and data feeds.
+¦Gathered and collected information from various programs, analyzed time requirements and prepared documentation to change existing programs.
+
+Professional Affiliations and Education
+
+NoSQL and Big Data Conference2013
+Hadoop Hackathon: Learn Map Reduce2013
+Member, Silicon Valley Big Data Meetup

@@ -1,0 +1,55 @@
+Oracle Database Administrator
+Oracle Database Administrator - Standard Chartered Bank. (SCB)
+
+Pune, Maharashtra
+To prove myself dedicated, wrathful and energetic as a Oracle Database Administrator in a progressive organization that gives me chance to apply my knowledge and skills and be a member of a team that dynamically works towards success and growth of the organization.
+Work Experience
+Oracle Database Administrator
+Standard Chartered Bank. (SCB) - Pune, Maharashtra
+February 2014 to Present
+Hong Kong 
+• Role: Oracle Database Administrator.
+Education
+MCA-Master in Computer Application
+Pune University Pune, Maharashtra
+2015
+Bachelor in Computer Science in Computer Science
+Pune University Pune, Maharashtra
+2012
+Skills
+AIX (Less than 1 year), architecture. (Less than 1 year), Database (3 years), databases (Less than 1 year), Oracle (3 years)
+Awards
+Star Performer Award
+June 2017
+I got star performer award
+Additional Information
+Technical Skill:- 
+ 
+• Expertise in maintaining 24x7 Production Databases. 
+• Good understanding of oracle architecture. 
+• Knowledge on ITIL Process Like change and incident management. 
+• Export/Import and Data Pump Utility. 
+• Experienced in Backup and Recovery. 
+• Experienced in Two Nodes RAC. 
+• Experienced in Automatic Storage Management (ASM) 
+• Good Knowledge on Dataguard. 
+• Creating/Altering tables Indexes. 
+• Creating users and Security Management through privileges, roles. 
+• Database refresh using Reorg, Index Rebuilding. 
+• Managing tablespace by adding and Resizing datafiles. 
+• Gather stats on tables and schemas. 
+• Configuring and maintaining Network services using tns.ora and listener.ora files. 
+• Experienced in Database Patching and Upgradation. 
+• Generating and Checking AWR, ASH Reports to Diagnose the Problems. 
+• Monitoring Database instance and Database objects like schemas, tables, tablespace, indexes. 
+• Monitoring File system and memory utilizations on Linux and AIX Platform. 
+• Good Knowledge on Linux commands. 
+ 
+• Operating Systems:Linux, AIX 
+ 
+Key Responsibilities at OS Level:- 
+ 
+• Vi Editor uses to adding/Creating new Files. 
+• Checking File system utilization using OS commands. 
+• Houskeeping on unnecessary files for maintaining Database File Systems. 
+• Checking memory utilizations at OS level.

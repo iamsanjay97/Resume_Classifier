@@ -1,0 +1,42 @@
+Vincent Granville, Data Scientist, Co-Founder
+Summary
+Dr. Vincent Granville is a visionary data scientist with 15 years of big data, predictive modeling, digital and business analytics experience. Vincent is widely recognized as the leading expert in scoring technology, fraud detection, and web traffic optimization and growth. Over the last 10 years, he has worked in real-time credit card fraud detection with Visa, advertising mix optimization with CNET, change point detection with Microsoft, online user experience with Wells Fargo, search intelligence with InfoSpace, automated bidding with eBay, click fraud detection with major search engines, ad networks, and large advertising clients.
+Most recently, Vincent launched Data Science Central, the leading social network for big data, business analytics, and data science practitioners. Vincent is a former post-doctorate of Cambridge University and the National Institute of Statistical Sciences. He was among the finalists at the Wharton School Business Plan Competition and at the Belgian Mathematical Olympiads. Vincent has published 40 papers in statistical journals and is an invited speaker at international conferences. He also developed a new data mining technology known as hidden decision trees, owns multiple patents, published the first data science book, and raised $6MM in start-up funding. Vincent is a top 20 big data influencers according to Forbes, was featured on CNN, and is #1 in Gil Press’ A-List of data scientists.
+Experience
+Co-Founder, Big Data Scientist, DataScienceCentral, January 2012 – Present
+Leading data science, visualization, data integration, and analytics community hub. Growth hacker. Data scientist, developer, author, blogger, speaker, professor, consultant, patent inventor, recruiter, community manager, co-founder, CFO, product and business development. Social network, fraud detection, business analytics, digital and e-mail marketing expert. Creation of the first Data Science Apprenticeship (see https://bit.ly/SmLXC8).
+Chief Innovation Officer, Founder, AnalyticBridge, February 2008, Greater Seattle Area
+Community/Editorial Accomplishments
+Ranked as a top 20 Big Data influencers by the Forbes magazine, and featured on CNN.
+Publication of the Data Science eBook (60,000 downloads, https://bit.ly/oB0zxn)
+Creation of the “Data Science Apprenticeship,” a fast-track 6-month program to become a true data scientist. (https://bit.ly/PTqWj9)
+Computational marketing, traffic growth, strategic partnerships. Increased revenue by 100percent from 2011 to 2012.
+Consulting Tasks
+Developed Internet traffic scoring platform for ad networks, advertisers and publishers (rule engine, site scoring, keyword scoring, lift measurement, linkage analysis). Clients include eBay, Click Forensics, Cars.com, Turn.com, Microsoft, and Looksmart.
+Designed the architecture for one of the first analytics 3.0. online platforms: all-purpose scoring, with on-demand, SaaS, API services. Currently under implementation.
+Engineered the most popular real-time analytics news feed: responsible for architecture (super-cluster topology), implementation (automated content selection) and distribution.
+Identified major Botnets generating more than 10MM per year in fraudulent transactions.
+Search engine analytics: prediction of keyword conversion for keywords with little or no historical data, increased lift by 20percent.
+Web crawling and text mining techniques to score referral domains, generate keyword taxonomies, and assess commercial value of bid keywords.
+Collaborative filtering, social network analytics.
+Developed new hybrid statistical and data mining technique known as hidden decision trees and hidden forests.
+Invited speaker: Predictive Analytics World, SAS International Data Mining Conference.
+Managing Partner, Ph.D. Data Scientist, AnalyticTalent, December 2005–Present
+Previously DataShaping. Leading online career community for data science, big data and all business analytic positions. Growth hacker. Manage the biweekly newsletter sent to 80,000 subscribers, featuring career articles and the most recent advertised positions, reaching more analytic practitioners than all our competitors combined–including KDNuggets, SmartDataCollective, INFORMS, Data-Informed, American Statistical Association, Digital Analytics Association, etc. Research analyst, editor, co-founder.
+I also provide consulting on traffic quality, click fraud and click scoring for meta job boards. Provide scalable, simple, customized and robust solutions that outperform traditional scoring technology, with superior ROI and fewer false positives/false negatives. Reverse-engineered solutions offered by previous vendor.
+Chief Scientist, LookSmart, April 2010–March 2012
+Keyword and search analytics using machine learning and pattern recognition:
+Created the list of top commercial keywords that account for 85percent of all advertising revenue on Google.
+Implemented and programmed the Google AdWords API to automatically find millions of new high value/high volume keywords for advertising campaigns (Perl, SOAP, XML)
+Taxonomy improvement.
+Click fraud detection (click jacking and Botnet detection).
+Website scoring, with scores used to predict chances of conversion or sales, using hidden decision trees/Naïve Bayes and web crawling.
+Automated bidding for advertiser campaigns based either on keyword or category (run-of-site) bidding.
+Reverse engineering of keyword pricing algorithms in the context of pay-per-click arbitrage.
+Creation of multimillion bid keyword lists using extensive web crawling. Identification of metrics to measure the quality of each list (yield or coverage, volume, and keyword average financial value).
+Chief Science Officer, Authenticlick, June 2006–May 2008
+Prototyped automated bidding and click scoring solutions for search engines, ad networks, and advertisers. Worked with the engineering team to implement my algorithms. Design of Experiment. Score standardization. IP blacklist design and management. Patent-pending statistical technologies. Supported Sales and Production team. Presented at Ad-Tech and the American Statistical Association conferences. Helped win several deals against large competitors (including Fair Isaac). Identified major Botnet. Raised $1.5 MM (Venture Capital funding).
+Patents
+Method and system for scoring quality of traffic to network sites, #20070192190
+Scoring quality of traffic to network sites, # 20080059301
+Preservation of Scores of the Quality of Traffic to Network Sites across Clients and over Time, #2009137507

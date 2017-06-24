@@ -1,0 +1,101 @@
+XXXX XXXX
+XXXX, Cupertino, CA H: XXX-XXXX-XXX | XXX-XXXX-XXX XXXX@XXXX.XXX
+Professional Profile
+Team-oriented Cloud engineer with six years' experience in system and network administration, managing server infrastructures and datacenter operations across multiple platforms (Unix, Linux, Windows). Expert-level knowledge of Amazon EC2, S3, Simple DB, RDS, Elastic Load Balancing, SQS, and other services in the AWS cloud infrastructure such as IAAS, PAAS and SAAS. Deep experience with AWS components such as EC2, S3, Elastic IPs, EBS, Security Groups, Route 53, VPC, ElastiCache, Elastic Beanstalk, RDS, DynamoDB, Redshift and Cloud Formation. Experience in administration of MS SQL server and MySQL in AWS cloud platform. Configured AWS IAM and Security Group in Public and Private Subnets in VPC. Architected, Designed and Developed the Backup and Archiving, Disaster Recovery in AWS Cloud. Demonstrate the capacity to deploy complex infrastructure using AWS CLI. Extensive Knowledge of Openstack. Expertise in version control system tools like GIT. Utilized configuration & automation tools such as Chef and Puppet. Experience with Jenkins/Maven deployment and build management system. Hands on experience in development of utilities using Shell and Python scripting to automate processes. Strong perseverance and diligence towards attaining challenging goals and possess good communication skills and quick learning ability.
+Qualifications
+OS and Cloud technologies
+RHEL (LINUX), UNIX, Ubuntu, debian, Centos, windows, AWS, Openstack.
+Databases
+MySQL, SQL Server, ORACLE, MongoDB
+Monitoring tools
+Cloud Watch, Nagios, Wireshark, Packet tracer
+Automation and build tools
+Chef, Puppet, Jenkins, Maven
+Softwares
+Virtualbox, Putty, X-Manager, Wamp Server, Winscp, Eclipse Ide, Wireshark
+Version controls
+GIT, SVN
+Scripting
+Shell, Python
+Basic programming
+C, HTML, CSS, JS, JAVA
+Experience
+AWS Cloud Administrator Jan 2014 to Current
+Fidelity - Durham, NC
+Involved in designing and deploying a multitude applications utilizing almost all of the AWS stack (Including EC2, Route53, S3, RDS, Dynamo DB, SNS, SQS, IAM) focusing on high-availability, fault tolerance, and auto-scaling.
+Migrated the current Linux environment to AWS/RHEL Linux environment and used auto scaling feature.
+Install and configure chef server / workstation and nodes via CLI tools to AWS nodes.
+Increasing EBS backed volume storage capacity when the root volume is full using AWS EBS Volume feature.
+Created AWS Route53 to route traffic between different regions.
+Deployed and supported Memcache-AWS ElastiCache.
+Working with GitHub private repositories.
+Created S3 backups using versioning enable and moved objects to Amazon Glacier for archiving purpose.
+Used Chef for configuration management.
+Used GZIP with AWS Cloudfront to forward compressed files to destination node/instances.
+Created users and groups using IAM and assigned individual policies to each group.
+Created SNS notifications and assigned ARN to S3 for object loss notifications.
+Created load balancers (ELB) and used Route53 with failover and latency options for high availability and fault tolerance.
+Configured Security group for EC2 Window and Linux instances and also for puppet master and puppet agents.
+Experience with monitoring tools such as Cloud Watch.
+Build out server automation with Puppet and used other tools like Jenkins/Maven for deployment and build management system.
+Good understanding of ELB, security groups, NACL, NAT, firewall and Route 53.
+Designed and developed automation test scripts using Python.
+Environment: AWS EC2, VMWare, Windows 2008, JBOSS, Tomcat Apache, Oracle, CLOUD WATCH, CLOUDFORMATION, GRUNT, GIT, CHEF, LINUX, Data Center Migration AWS, Jenkins, EC2, Chef, LINUX, Maven, GIT.
+AWS Operation Manager Dec 2011 to Jan 2014
+TD Bank - NJ
+Configured web servers (IIS, nginx) to enable caching, CDN application servers, and load balancers.
+Deployed and supported Memcache-AWS ElasticCache.
+Involved in maintenance and performance of Amazon EC2 instances.
+Established efficient processes and scripts for change management with the aid of Chef.
+Diagnose issues with Java applications running in Tomcat or JBoss.
+Created and maintained Jenkins jobs that execute shell script.
+Involved in designing and developing Amazon EC2, Amazon S3, Amazon SimpleDB, Amazon RDS, Amazon Elastic Load Balancing, Amazon SQS, and other services of the AWS infrastructure.
+Implemented Security groups for Inbound/Outbound access.
+Support JIRA Project Administration involving custom, complex projects, workflows, security schemes, custom fields etc.
+Experience working with Monitoring tools such as CloudWatch.
+Created AWS Multi-Factor Authentication (MFA) for instance RDP/SSH logon, worked with teams to lock down security groups.
+Setup specific IAM profiles per group utilizing newly released APIs for controlling resources within AWS based on group or user.
+AWS data backup (snapshot, AMI creation) techniques, along with data-at-rest security within AWS.
+Environment: AWS EC2, VMWare, Windows 2008, IIS, ASP.net, SQL Server, CLOUD WATCH, CLOUDFORMATION, GRUNT, GIT, PUPPET, LINUX.
+Systems Administrator Aug 2010 to Nov 2011
+Windows/LINUX Green Dot - Los Angeles, CA
+Planning, design and migration of Client data centers between buildings after accessing all requirements and using current hardware and new hardware.
+Remediation and patching of Linux Servers.
+Architected and built new Highly Available Veritas Clusters in UNIX computing environment to migrate business critical oracle databases / applications running on Linux OS/ Solaris.
+Installation, configuration and Operating System upgrade on Red Hat Linux AS 4.0 /5.0 /6.0 Sun Solaris 8, 9, 10 and Oracle Linux 6.x.
+Migration and install of RHEL 5.6 Servers and completing health checks and continuous update of servers and reading IBM Tivoli endpoint reports.
+Install and configure chef server / workstation and nodes via cli tools to AWS nodes.
+Installed VMware ESX server on Dell Servers and configured Red Hat Linux 6.
+X / Solaris 10/ Windows 2K virtual machines for various applications.
+Installed and managed different RPM Linux, configured YUM Installs.
+Work with DBA(s) on Oracle server install and administration.
+Linux and AIX Server Consolidation and migration of Servers to new Data center.
+Lead datacenter migration in large midrange environment.
+Establish Virtual Private Networks (VPNs) for the dev - team where LAMP stack was used.
+Environment: Windows Server 2003, SQL Server, VPN, LINUX, LAMP Stack, MYSQL.
+Systems and Network Engineer Jun 2009 to Jun 2010
+Reliance Communication
+Administered and supported application servers, responsibilities included troubleshooting and monitoring servers using Nagios.
+Configured local file system storage to create partitions and volumes.
+Involved in deploying and supporting patch management, updating services and software installation.
+Experience with Yum package installations and patching software.
+Provided support for creating user accounts, security privileges to specific users and process monitoring in Ubuntu and RedHat Linux.
+Monitored system performance statistics like storage, CPU utilization and network bandwidth utilization.
+Documented system logs and error reports.
+Environment: Windows Server 2003, SQL Server, VPN, LINUX, LAMP Stack, Oracle SQL.
+Education
+B.E
+Gujarat Technological University India
+Skills
+ASP.net, AIX, Apache, Automation, backup, Basic programming, C, CLI, change management, hardware, configuration management, CPU, CSS, Client, DBA, Databases, Dell Servers, designing, Eclipse, firewall, HTML, IBM, Ide, IIS, Java, JBOSS, LAMP Stack, LINUX, Linux 6.x, Linux OS, access, Windows, Window, Windows 2, Migration, MongoDB, MYSQL, network, Networks, OS, Operating System, ORACLE, DB, Oracle SQL, policies, processes, Python, reading, Red Hat Linux 6. X, Red Hat Linux, RedHat Linux, scaling, SSH, Server Consolidation, Servers, Shell, scripts, Scripting, shell script, software installation, Sun Solaris 8, Solaris, SQL Server, statistics, Tivoli, Tomcat, troubleshooting, UNIX, upgrade, Veritas, VPN, web servers, Windows Server
+Build Your Own Now
+
+Project Trainee Software QA @ PTC Software (India) Pvt. Ltd.
+Test Engineer
+
+Senior Test Engineer @ Infochimps, a CSC company
+Test Engineer
+
+Test Lead @ Cigniti Technologies Ltd South West Airlines
+Test Engineer
+PreviousNext

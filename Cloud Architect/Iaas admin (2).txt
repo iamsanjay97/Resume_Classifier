@@ -1,0 +1,144 @@
+XXXX XXXX
+XXXX, Sugar Land TX 77498
+XXX-XXXX-XXX Cell: XXX-XXXX-XXX - XXXX@XXXX.XXX
+Summary
+Experienced and Award-Winning IT Infrastructure and Virtualization expert with over 13 years of experience designing/managing global infrastructure operations and utilizing innovative technologies to drive business forward.
+Certifications and Accreditations
+VMware Certified Professional – Datacenter Virtualization (VCP5-DCV)
+VMware Technical Solutions Professional (VTSP)
+VMware Technical Solutions Professional – Cloud Specialization (VTSP-Cloud)
+Awards and Recognitions
+2009 COMMON/IBM Power Systems Innovation of the Year Award for Power/Energy Efficiency for my design and implementation of the USBC Datacenter in Arlington, TX
+2011/2012 VMware vExpert Recognition for my contributions to the virtualization community.
+vSential.com virtualization blog ranked among the Top 125 Virtualization blogs on the Internet by vSphere-land.com.
+Qualifications
+Proven knowledge of virtualization technologies such as VMware, Xen, Hyper-V.
+Proven track record of being a SME on virtualization automation
+Knowledge of Linux systems administration and shell scripting using Bash, PHP, Ruby, Python, and Perl.
+Able to work with little to no supervision on projects.
+Subject Matter Expert on VMware Virtualization
+Advanced knowledge of Microsoft Active Directory and related technologies in order to support a full scale Windows-based deployment.
+Knowledge of networking and Cisco network gear use and configuration.
+Excellent written and verbal communication skills.
+Proven ability to lead a team to produce positive results.
+Extensive use of VMware vCloud Director for IaaS, SaaS, PaaS
+Experience
+Cloud Infrastructure Architect/Engineer
+June 2012 to April 2013
+iland Internet Solutions - Houston, TX
+Design, deployment, maintenance of US/UK virtualization infrastructure utilizing Dell rackmount servers and Cisco UCS blade server hardware, Dell Equallogic and Compellent storage technologies.
+Lead design and implementation of migration plan and complete redesign of VMware vSphere infrastructure across the enterprise. Migrating from vSphere 4.x to vSphere 5.
+Responsible for infrastructure design for the company's cloud service infrastructure.
+Design, planning, and implementation of the virtual infrastructure.
+Senior engineer for all enterprise and facility infrastructure design and maintenance.
+Lead engineer for management of virtual infrastructure based on VMware vSphere (4.x, 5.x) and VMware vCloud Director (1.x, 5.x)
+Senior design engineer responsible for technology movement and future state use cases.
+Design and deployed of build automation workflows utilizing vCenter Orchestrator, PowerCLI, and scripting in the vMA.
+Design of some self-service portals for both deployment and troubleshooting for the Support Team (Tier 1-3).
+Management and troubleshooting at a high level of customer SaaS, IaaS, and PaaS environments.
+Senior Systems Engineer
+June 2011 to June 2012
+SavaSeniorCare Administrative Services - Houston, TX
+Design, deployment, maintenance of North American network and virtualization infrastructure. Utilizing VMware vCenter Orchestrator to provide a self-provisioning portal for VMs and physical hosts. Automation of typical daily tasks within the infrastructure with various scripting and other orchestration tools.
+HP server and blade server hardware deployment/management.
+HP EVA and MSA storage technology administration (iSCSI/FC/NFS)
+VMware vSphere virtualized infrastructure.
+Lead design and implementation of migration plan and complete redesign of VMware vSphere infrastructure across the enterprise.
+Migrating from vSphere 4.x to vSphere 5.
+Responsible for infrastructure design for a virtualization footprint of 200 remote locations, Houston Datacenter, and Atlanta Datacenter.
+Lead migration of enterprise-wide virtualization initiative.
+Design, planning, and implementation of the virtual infrastructure.
+Currently the Senior consulting engineer for all enterprise and facility infrastructure design and maintenance.
+Lead engineer for management of virtual infrastructure based on VMware vSphere (4.x, 5.x) Senior design engineer responsible for technology movement and future state use cases.
+Was the lead engineer for anything automation. Multiple tasks automated with the use of shell scripts, PowerShell/PowerCLI, Python, and some VBscript.
+Senior Network Engineer
+February 2010 to June 2011
+J.B. Poindexter & Co., Inc - Houston, TX
+Design, deployment, maintenance of global network and virtualization infrastructure. Implementation of automation to provide SaaS and IaaS options for the company utilizing vCenter Orchestrator, PowerCLI, and various other scripting tools.
+Cisco network switches, routers, and ASAs.
+IBM, HP, and Dell server hardware.
+IBM, QNAP, EMC, and NetApp storage technologies.
+VMware vSphere virtualized infrastructure.
+Spearheaded design and implementation of migration plan and complete redesign of VMware vSphere infrastructure across the enterprise, virtualizing roughly 90% of the server infrastructure company-wide.
+Heading up design of migration plan from Windows Server 2003 Active Directory to Windows Server 2008 Active Directory.
+Lead migration of enterprise-wide virtualization initiative.
+Design, planning, and implementation of the virtual infrastructure.
+Currently the Senior consulting engineer for all enterprise and local business unit infrastructure design and maintenance.
+Co-lead of team migrating business units from Citrix to VMware ThinApp and Microsoft RemoteApp to free them from the double licensing costs of Citrix.
+Automated daily tasks in the Linux-based environments through the use of shell scripting and some Python scripts.
+IT Infrastructure Architect
+July 2009 to February 2010
+Handy Hardware Wholesale, Inc - Houston, TX
+Design, deploy, and maintenance of a multi-region distribution company's network and server infrastructure.
+Designed multi-site replication topology for disaster recovery and business continuity.
+Virtualized server infrastructure utilizing IBM BladeCenter S and VMware vSphere 4.0.
+Deployed Microsoft Active Directory as there was no directory services previously implemented.
+Migrated company from Lotus Notes/Domino e-mail setup to Microsoft Exchange 2007.
+Managed infrastructure from the desktop to the network.
+Designed and implemented many of the current IT policies now in place.
+Implemented a security policy and remote access utilizing Cisco ASA5505 and Vyatta Routing Appliances.
+Designed, deployed, and maintained infrastructure consisting of Microsoft and Linux Operating Systems.
+Automation of daily tasks in Linux environments through use of scripting.
+IT Infrastructure Architect/Engineer
+May 2008 to July 2009
+United States Bowling Congress - Arlington, TX
+Design, deploy, and maintenance of multi-site network and server infrastructure. Creation of automation of host deployment in a blade environment, mainly IBM blades.
+Design of multi-site MPLS network to support moving tournament sites.
+Design and maintain the supporting server infrastructure for Bowl.com running on RHEL5 with JBOSS Application Server and Apache front-end and IBM DB2 and MySQL backend.
+Received 2009 COMMON/IBM Innovation of the Year Award for Power/Energy Efficiency for design and implementation of USBC Datacenter in Arlington, TX.
+Moved organization from Milwaukee, WI to Arlington, TX.
+Complete redesign of network infrastructure to support new expansion and growth.
+Maintenance and design of VMware virtualized infrastructure on IBM BladeCenter technologies with IBM N-Series storage via iSCSI.
+Maintenance and design of Cisco-based network infrastructure utilizing ASA5510's, 3750G-POE, and 4507's.
+Deployed and maintained Cisco IPT Phone System, running CallManager 7, Cisco Unity, and other IPT pieces.
+Supported infrastructure that consisted of Microsoft Windows Server and various Linux variants.
+Senior Systems Engineer
+January 2008 to January 2008
+Neospire, Inc - Dallas, TX
+Design and implementation of infrastructures consisting of RedHat and Debian servers.
+Designed and maintained many High-Availability LAMP and .NET web infrastructures.
+Administration and design of Apache web servers and Microsoft IIS web servers.
+Administration and design of Tomcat/JBOSS web infrastructures.
+Designed supporting web infrastructure for the Dallas Cowboys, Dallas Stars, and Sean Hannity, among others.
+Management of Microsoft Windows infrastructures ranging from Windows Server 2000 to Windows Server 2008.
+Management of Microsoft Exchange Servers ranging from Exchange 2003 to Exchange 2007.
+Design and deployment of Debian and Redhat servers supporting custom web applications and static content.
+Director of Network Operations
+January 2003 to January 2008
+Alchemy Communications, Inc - Los Angeles, CA
+Designed and maintained over 3,000 Linux and Windows servers. Dealing with the day-to-day operations in regards to datacenter operations of two 20,000 sqft. datacenters.
+Implemented load-balanced LAMP farms for customers like Lionsgate Entertainment, Warner Bros, Los Angeles Lakers, MySpace, Facebook, and many others.
+Directed a team of 40+ network and 20+ system engineers in a 24/7/365 Network Operations Center split into two separate datacenter locations.
+Designed new 20,000 sqft datacenter near LAX for expansion of availability for our customers.
+Designed self-healing web infrastructures running against Apache, MySQL, and other web technologies.
+Designed LAMP infrastructure for Lionsgate Entertainment to support traffic for movie websites.
+Maintained multiple flavors of Linux servers in both virtual and physical deployments.
+Lead Engineer for VMware virtual infrastructure deployments for both Alchemy and their clients.
+Deployed and maintained multiple Microsoft Windows infrastructures, supporting web, e-mail, and content streaming technologies.
+Delivered loadbalancing solutions utilizing Foundry Network.
+Consultant
+January 2000 to January 2003
+ConceptSystems, dba - Denton, TX
+Consulted for different projects for various clients.
+Projects ranged from design and implementation of SMB networks to large scale infrastructure design and deployment.
+Designed and implemented WLAN for REMAX office in Grove, OK spanning three building and over 5,000 sqft.
+Implemented many SMB networks for various companies throughout Oklahoma and North Texas.
+Regional Network Manager
+January 1997 to January 2000
+Anixter, Inc - Lewisville, TX
+Maintained 5 separate physical locations with over 200 users per location.
+Assisted in the design and execution of migration plan from Windows NT to Windows 2000 on the workstation and server ends.
+Developed and lead plan for deployment of helpdesk and remote management capabilities.
+Assisted with the design of the LAN/WAN of many of the US sites.
+Assisted with the design and deployment of Active Directory throughout the organization.
+Education
+Associates of Arts : Information Technology - Networking, 2012
+University of Phoenix - Phoenix, AZ
+Articles/Blogs/Features
+vSential - Personal Virtualization Blog (http://www.vsential.com)
+VMware VMTN Blog – vExpert Spotlight. (http://vsn.tl/va8FOo)
+VMware vCenter Orchestrator Blog - Listed as Unofficial Resource (http://blogs.vmware.com/orchestrator/2012/09/vco-thoughts-from-vmworld-2012-in-san-francisco.html)
+
+Additional Information
+vSential.com virtualization blog is ranked among the Top 125 Virtualization blogs on the Internet by vSphere-land.com.
+Build Your Own Now

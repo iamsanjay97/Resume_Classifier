@@ -1,0 +1,87 @@
+Robert G. Ruffin
+Microsoft Cloud Azure Architect
+918-***-****
+actrvj@r.postjobfree.com
+General Blue Corporation
+Microsoft Cloud Azure Architect January-2002 to Present
+Six years experience with Microsoft Azure cloud for multiple clients and customers of General Blue Corporation.
+Company names withheld per Non-Disclosure Agreement (NDA).
+Working with multiple technical teams, architects, security officers, managers and business users, reviewed and documented workloads, system dependencies and business requirements. Mapped workloads to the capabilities of Microsoft Azure for public, private and hybrid clouds.
+Designed and configured Azure Virtual Networks (VNets), subnets, Azure network settings, DHCP address blocks, DNS settings, security policies and routing.
+Deployed Azure IaaS virtual machines (VMs) and Cloud services (PaaS role instances) into secure VNets and subnets.
+Designed VNets and subscriptions to conform to Azure Network Limits.
+Exposed Virtual machines and cloud services in the VNets to the Internet using Azure External Load Balancer.
+Provided high availability for IaaS VMs and PaaS role instances for access from other services in the VNet with Azure Internal Load Balancer.
+Implemented high availability with Azure Classic and Azure Resource Manager deployment models.
+Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs and subnets.
+Setup Azure Virtual Appliances (VMs) to meet security requirements as software based appliance functions (firewall, WAN optimization and intrusion detections).
+Utilized NSGs for layer 4 Access Control List (ACLs) for incoming and outgoing packets.
+Used firewall appliance where requirements call for layer 7 security models.
+Leveraged VNET system routes and underlying route table that holds Local VNet Rules, On-premise Rules, Internet Rules and IP Forwarding as design basis.
+Designed User Defined Routes with custom route tables for specific cases to force tunneling to the Internet via on-premise network and control use of virtual appliances in the customer’s Azure environment.
+Associated routes with VNets via the route table per relationship constraints.
+Managed IP Forwarding for VMs and role instances acting as virtual appliances.
+Configured BGP routes to enable ExpressRoute connections between on-premise data centers and Azure cloud.
+Led DevOps development of PowerShell command scripts, custom PowerShell C# cmdlets, Python, PHP, Ansible, Puppet and Chef to configure, verify and monitor: networks, security, routes, IP-Forwarding, VMs and cloud service roles..
+Reviewed workloads, system dependencies, business requirements and security requirements to optimize the Azure subscriptions, VNet design, NSGs, routing, deployment model and resource groups. Designed choice architectures for IaaS VMs, PaaS role instances and SaaS applications appropriate for the workloads (operating systems, applications, databases), transaction volumes, performance goals and security concerns.
+Azure POCs
+Reviewed, analyzed, and created prototype C# code to verify functionality of the following Azure services as proof of concepts (POCs) for:
+Compute: Virtual Machines, Cloud Services, Batch, RemoteApp
+Data & Storage: SQL Database, DocumentDB, Redis Cache, Storage (Blobs, Tables, Queues, Files and Disks)
+Networking: Virtual Network, ExpressRoute, Load Balancer, DNS, VPN Gateway, Application Gateway
+Identity & Access Management: Azure Active Directory, Azure Identity, Multi-Factor Authentication (MFA)
+Office and Developer Services: Visual Studio Online, Git, and Office 365
+Systems Management: Microsoft Azure preview portal, Scheduler, Automation
+Cloud Accomplishments
+Conducted capacity planning and architecture of Storage Accounts
+Led automation of Azure deployments utilizing PowerShell
+Architected automation of Azure Virtual Networks, Network Security Groups and access control rules
+Leveraged “Azure Automation” and PowerShell, Chef and Puppet to automate processes in the Azure Cloud
+Led implementation of Office 365 and Azure Active Directory for single sign on, authentication, authorization and Azure Role-based Access Control (RBAC).
+Led technical and functional implementation of three full life cycles of Microsoft Dynamics AX to take advantage of Azure services for corporate global deployments.
+Led migration of over 4,000 on premise Virtual Machines to Azure Virtual Machines for multiple global business units.
+Utilized ASR (Azure Site Recovery), PowerShell and MVMC (Microsoft Virtual Machine Convertor) for on-premise to cloud migrations
+Prepared capacity and architecture plan to create the Azure Cloud environment to host migrated IaaS VMs and PaaS role instances for refactored applications and databases.
+Implemented a structured design process for creating a hybrid cloud architectures to include on-premise resources, networks, security, IaaS, PaaS, SaaS, and DaaS architectures. Leading the architects to iterate through design steps and tasks to identify dependencies and resolving design conflicts where a design decision made in a later step may conflict with a design decision made in an earlier step, repeating the process until all considerations are incorporated into the final architecture design.
+Fifteen years’ experience with relational data modeling, data warehouse(DW) modeling, business intelligence(BI), extraction, transformation, and loading (ETL) for very large data bases (VLDB). Applied DW/BI concepts to manage and monitor accounts and resources in Microsoft Azure cloud.
+Ten years’ experience with SOA, and REST APIs. Led development of production grade code using C#, Java, PHP, Python. Mentored and led junior engineers in best practices for coding, testing and automation processes. Worked with software developers, quality engineers, and system engineers to define tools, automation components, processes and implementation to support Agile development, DevOps, and Continuous Integration (CI)/Continuous Deployment (CD). Established goals to produce error-free code with programming standards, object-oriented concepts and structured testing. Designed Service Oriented Architecture (SOA) and RESTful APIs for programming access to databases from applications.
+Microsoft Stack Development
+Led development of applications and websites with .NET language capabilities of C#, PowerShell, .NET Framework 1.1/ 2.0 / 3.0 / 4.0 / 4.5, C# Rosyln Compiler as a Service, asynchronous programming, multi-tasking, multi-threading, Microsoft Web API, RESTful API, Microsoft SQL Server, SQL development, SSIS ETL, SSRS reporting, Microsoft Dynamics AX, and Domain Specific Language(DSL) design.
+ORM Object-Relational Mapping
+Implemented ORM technology: Microsoft Entity Framework (5.0, 6.0), EF Code First, Microsoft LINQ to Sql, NHibernate (3.0, 4.0), NHibernate (mapping-by-code). Extended ORM technology for multiple database platforms.
+Database Development and Database Administration
+Microsoft SQL Server 6.5/7.0/2000/2005/2008/2012, SQL, SSIS, SSRS, MySQL, and Oracle 8i/9i/10g/11g/12c.
+Extensive DBA systems experience with high availability databases utilizing clustering, replication, log shipping, RAID arrays, and real-time monitoring.
+LAMP Stack Web Platform (Linux, Apache, MySQL, PHP/Python/Perl)
+Deployed 50 Linux servers and MySQL databases to Digital Ocean for WordPress websites and pure PHP Python websites. Integrated WordPress and PHP Python websites with Azure Active Directory. Installed/Configured PFSense firewall server.
+Hands on Microsoft Azure Application and Web Development
+Designed and led developed PaaS and SaaS architectures to host mission critical applications and websites
+Integrated multiple technologies: C#, ASP.NET, ASP.NET Identity, OAUTH, OpenID, Entity Framework 6.0, WIF,
+AD FS, Microsoft Sql Server, Microsoft MVC3/MVC4/MVC5, Microsoft Web API, RAZOR, KnockoutJS, jQuery, jQuery UI, Ajax and Microsoft Dynamics CRM
+Architected and Designed the Simpata Cloud < Virtual Cloud>
+Implemented Simpata virtual cloud infrastructure leveraging latest features of Azure portfolio, Microsoft Office 365, Azure Active Directory, Digital Ocean, AWS, and the Simpata dynamic data model.
+Designed RESTful API to access the Simpata platform independent dynamic data model
+Designed the Simply command line, web-based and API interfaces to author Simpata dynamic data models.
+Provided business partners enterprise capability to integrate with diverse data base stores via Simpata Cloud to support a variety of web technologies, mobile and rapid applications development (RAD)
+Automated Simpata data services freeing customer of database administration activities for business continuity, backup/recovery, high availability disaster recovery (HADR) and database schema maintenance
+Provider customers with premier database technology “under the hood” to meet their requirements for Microsoft Sql Server, Oracle, and/or MySQL
+International Business Machines (IBM)
+IT Architect/Principal January-1998 to 2002
+IBM Global Services
+IT Optimization Services
+Served as IT Architect for IT Optimization Services study/research teams for multiple IBM customers.
+Participated and contributed to team studies covering seven IT domains: Organization, Finance, Applications, IT Architecture, Servers, Data, and Networks
+Utilized Issues-based Thinking methodology and IBM Engagement Management for in-depth analysis of business issues related to information technology
+Developed final seven domain recommendations for the IT organization and solution design: Organization, Finance, IT Architecture, Servers, Data, Networks and Security
+International Business Machines (IBM) Software AG Pennzoil)
+Houston LaSalle data center project manager for 7 X 24 support of in-house develop business applications, SAP applications, ADABAS databases, IBM Customer Information Control System (CICS) and IBM MVS ESA/OS 390/zOS operating systems
+International Business Machines (IBM) EMEA Brake Brothers (London, UK, Thorpe Park)
+Adapted DB2 data models for SAP custom configurations and SAP Basis
+Utilized IBM DataStage to load data into SAP FICO / MM / Visit Plans modules
+Designed and implemented ETL processes for importing Excel and Oracle data to SAP applications from 12 distribution warehouses
+Configured SAP modules: FICO, Materials Management(MM), Delivery Routes and Visit Plans
+Enhanced SAP FICO presentation with Microsoft .Net C# applications and websites
+EDUCATION
+B.S. Computer Information Systems
+University of Tulsa
+Kendall College of Arts and Sciences

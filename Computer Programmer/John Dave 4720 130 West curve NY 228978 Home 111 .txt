@@ -1,0 +1,65 @@
+John Dave 
+4720,130, West curve, 
+NY 228978 
+Home: 111-111-1111 
+Cell: 222-222-2222 
+Email: (include Email Address)
+
+Have several years of experience in development environment as programmer. Have expertise and experience in all phases of project life cycle namely analysis, design, and coding, testing and implementation phases. I have experience in working with different operating system and platforms namely Windows, UNIX, Linux and Dos. Also have efficiently managed the team and took care in delivering quality deliverables from my team which proved my managerial and leadership skill. 
+
+Objective: 
+To take a challenging and managerial role in the field of Computer programming and implement the expertise and experience gained in this field to develop complex project with efficiency and quality. 
+
+Education: 
+• BS in Information Technology, New York University, 1995 
+• MS, Computer Science, Georgia University, 1997 
+
+Computer Skills: 
+•  Languages: C, C++, Java, .NET, JavaScript, HTML, CSS, JAVA Proxy, JDK, SERVLET 
+•  Databases: MySQL, Oracle, Access, DB2 
+•  Operating System: UNIX, Linux, Windows, DOS 
+
+Strengths: 
+•  Excellent Technical Skill 
+•  Efficient Programming Skill and experience 
+•  Have expertise in working with various operating systems 
+•  Good deliver output in less time without losing efficiency 
+•  Highly skilled in customer service 
+•  Excellent Communication Skill 
+
+Work History 
+
+Senior Programmer Sep 2004 – Till date 
+Treeshine Inc, NY 
+Environment: C, C++ 
+
+Responsibilities: 
+I was handling a project for a Major Banking client. I took part as a senior programmer in both the development and maintenance phase of the project. I managed a team of 9 programmers and was responsible for quality code and deliverables from my team. I maintained appropriate documents which helped the induction process for new team mates finish in less time efficiently. In the development stage I wrote less code and took the responsibility of reviewing the code and output and documenting my review comments for rework by my teak mates and continuing the process until the quality is achieved. In the maintenance stage I took the task of fixing the bugs reported by the users and for taking care of enhancements suggested by customers. 
+
+Senior Programmer Mar 2001 – Sep 2004 
+White Chip Technologies Inc,NY 
+Environment: C, C++ 
+
+Responsibilities: 
+As a Senior Programmer I managed a team of 5 programmers and reviewed their code and test plan for validity and efficiency. I was involved in the total development cycle of the projects given to me from design till implementation stage. I also attended quality training and took care of quality aspects in the code developed by me and in my team. The projects that worked in this organization were using programming language C, C++ that ran on operating system windows as well as UNIX. So I have expertise and experience in using both the operating system efficiently. 
+
+Programmer Apr 2000 – Mar 2001 
+Comp soft Pvt Ltd, NY 
+Environment: C, C++ 
+
+Responsibilities: 
+As a programmer I was took the task of developing codes in programming language C and C++ of various projects assigned to me. I was assigned a project where I applied my extensive knowledge on compiler design and microprocessors. 
+
+Programmer Jan 1998 – Apr 2000 
+Jet blue Tech Pvt Ltd, NY 
+Environment: Java 
+
+Responsibilities: 
+I took the role of programmer in the organization and computerized the whole accounting department of the organization. In this process I studied the process, designed the system, developed and tested the whole project and implemented the same which is running efficiently in the concern. I worked with database oracle and db2 for various projects in the organization.
+
+Programmer Oct 1997 – Jan 1998 
+Flash Dream Pvt Ltd, NY 
+Environment: Java 
+
+Responsibilities: 
+I developed the company’s shopping cart system. This project allows and helps people across the world to buy or sell articles online efficiently. The system developed is fully menu-driven with clear rules and pop-up messages placed at appropriate place which makes the system user-friendly among customers. I took the sole responsibility of developing the whole system from the design input given to me. I also took part in unit testing and prepared test plan and test cases for the same which helped the further testing process to run smoothly in less time.

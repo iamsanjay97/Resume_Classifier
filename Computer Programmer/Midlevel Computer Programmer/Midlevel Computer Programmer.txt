@@ -1,0 +1,67 @@
+COMPUTER PROGRAMMER
+
+Solutions-driven programmer with a four-year track record of commended performance in modular and object-oriented programming. Well-versed in all phases of the software development lifecycle, with a strong working knowledge of algorithms and data structures. Proven success engineering customized solutions improving business processes, operations and profitability.
+
+SKILLS
+
+
+	Software Development
+
+
+	Solutions Deployment
+
+
+	User Training & Support
+
+
+	OOAD & RAD
+
+
+	GUI Design
+
+
+	Requirements Definition
+
+
+	Coding & Scripting
+
+
+	Debugging & Troubleshooting
+
+
+	Testing & Documentation
+
+TECHNOLOGY SUMMARY
+
+Programming: Java, C, C++, XML, SQL, HTML, Perl, Visual Basic
+Software: MS Office Suite (Access, Word, Excel, PowerPoint, Project), Oracle
+Systems: Unix, Linux, Windows, Macintosh OS X
+PROFESSIONAL EXPERIENCE
+
+ABC COMPANY (Software firm providing solutions to the banking industry) -- Sometown, AZ
+Programmer / Analyst, 2014 to Present
+Create and customize software applications and tools using advanced development and coding techniques. Manage all phases of application design -- from coding and prototyping through system testing, integration and deployment. Results:
+
+	Served as a member of electronic placement project team, developing strategies to ensure compliance with new industry standards for electronic exchange.
+
+
+	Regarded as a key member of pre-sales team closing large contracts (average of $2.5M annually). Develop custom software solutions that help customers make more informed decisions, improve their use of capital and manage risk more effectively.
+
+
+	Developed and enhanced programs using Java, C and C++, contributing to solutions that streamlined processes, increased accuracy and lowered costs. Developed back-office application that saved client more than $125K annually.
+
+DEF BANK (Full-service regional bank) -- Sometown, AZ
+Intern / Programmer, 2010 to 2014
+Hired as a full-time programmer following commended performance in initial intern role. Results:
+
+	Enhanced DEF Bank reporting subsystem that provided new functionality to reporting functions that were previously unavailable.
+
+
+	Worked on yearlong project creating interface with core MIDAS system to enable automated report generation. Saved thousands of hours annually while increasing accuracy from less than 90% to 99.9%.
+
+EDUCATION
+
+ABC UNIVERSITY -- Sometown, AZ | BS in Information Technology, Minor in Finance
+
+DEF COMMUNITY COLLEGE -- Sometown, AZ | AS in Computer Information Science
+
