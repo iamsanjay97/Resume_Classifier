@@ -1,0 +1,73 @@
+MARK STENERSEN
+Software Engineer
+Technical
+PHP	Linux	Web Application Development
+MySQL	Python	E-Commerce Solutions
+JavaScript	Apache	Search Engine Optimization
+HTML/CSS	Bash Scripts	Website Performance Optimization
+Experience
+Picture-Cart, LLC
+2012-Current
+SaaS Developer / Business Owner
+Built and currently maintain a highly customized shopping cart web service used to sell high volume photography. Specialize in maximizing online sales and streamlining product and order management. Communicate with clients to discuss custom development, process billing, and respond promptly to all questions and technical support issues.
+
+PHP, MySQL, Python, HTML, CSS, JavaScript, and jQuery
+PayPal Payment Gateway Integration / Authorize.Net Payment Gateway Integration
+Developed Linux/Python tools to monitor sales, create website snapshots, backup databases, monitor PHP logs and payment gateway response logs, and batch optimize and upload website files
+Host-1-Stop, LLC
+2006-Current
+Website Developer / Business Owner
+Manage my own website development and consulting company. Specialize in website performance optimization, Rackspace web hosting, and search engine optimization. Communicate with clients to refine design plans, process billing, and respond promptly to all questions and technical support issues.
+
+PHP, MySQL, Python, HTML, CSS, JavaScript, and jQuery
+Web Application Development / Web Service Integration
+E-Commerce Solutions / Content Management Systems
+Database Design / Management
+Website Performance Optimization / Search Engine Optimization
+Developed Linux/Python tools to create website snapshots, backup databases, monitor PHP logs and payment gateway response logs, and batch optimize and upload website files
+Gradcart, LLC
+2006-Current
+SaaS Developer / Business Owner
+Built and currently maintain a highly customized shopping cart web service used to sell high school graduation products. Specialize in maximizing online sales and streamlining product and order management. Communicate with clients to discuss custom development, process billing, and respond promptly to all questions and technical support issues.
+
+PHP, MySQL, Python, HTML, CSS, JavaScript, and jQuery
+PayPal Payment Gateway Integration / Authorize.Net Payment Gateway Integration
+Developed Linux/Python tools to monitor sales, create website snapshots, backup databases, monitor PHP logs and payment gateway response logs, and batch optimize and upload website files
+Varolii Communications
+2005-2006
+Software Developer
+Created automated alerts (phone calls, email, SMS, etc.) for Fortune 500 companies. Worked with sales engineers, software developers, and customers to deliver a final project.
+
+UNIX, VI, SQL, and CVS version sontrol system
+Developed Bash shell scripts to reduce production time
+Project Management
+Pacific Northwest National Labs
+2004
+Software Engineering Senior Design Project
+Developed software for the Environmental Protection Agency to classify URLs. This was accomplished by first extracting HTML from each requested URL. Then, the text was processed, analyzed, and saved into a database as a RSS document. Worked with three classmates and one representative from the Environmental Protection Agency.
+
+HTTP Client Development
+Advanced Text Processing & RSS Creation
+Project source code in Java
+Cyan Worlds, Inc.
+2002-2003
+Senior Real-Time Character Artist
+Responsible for the character customization level for an online game, which gave me the opportunity to work closely with software developers and 3D graphic artists. Started working at Cyan as an intern for the summer and was offered a full time senior position the following fall. After the completion of the game, I returned to Washington State University to complete my computer science degree.
+
+Realistic character modeling with extensive use of 3ds Max and Adobe Photoshop: Photoshop File, 3ds Max File, Real-Time Character
+Construction of enhanced animation rigs, e.g., building skeletons, skinning of models with the "Skin" modifier in 3ds Max
+Developed custom 3ds Max macrocripts to reduce tedious work
+Optimized the production pipeline with finished documentation: Avatar Documentation
+Education
+Washington State University
+B.A., Computer Science — Graduated Cum Laude
+2004 Meek, Markley, McPhail Scholarship
+Computer Science Departmental Award — Outstanding Senior
+References
+Patricia Arnold
+Washington State University Advisor
+Phone: (509) 335-2446 | Email: patricia@eecs.wsu.edu
+Letter of Recommendation
+Rand Miller
+Director of Cyan Worlds, Inc.
+Phone: (509) 467-0807 | Email: rand@cyan.com

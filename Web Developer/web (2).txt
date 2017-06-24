@@ -1,0 +1,86 @@
+Snehal XXXXXXX
+E-mail: SnehaXXXXXX@gmail.com
+Phone: 9XXXXXXXX
+Professional Summary
+3+ years of experience as Web Developer.
+Experience of Interacting with the Client & Understanding requirements.
+Experience of Designing the layout, UI while achieving Customer/user Friendliness.
+Experience about Editing and Updating the CSS files.
+Editing images and updating the content.
+Uploading and Updating files on server.
+Expertise in Testing Wordpress plugins, Joomla Extensions.
+Creating custom PHP forms & Documenting the portal.
+Embedding music in the portal.
+Creating custom Area and Stamp duty calculators, Flash animation for the Contact Us Page.
+Also creating animations for advertisement of the portal, Social Media Integration, Embedding Google translate.
+Professional Experience
+XXXXX Tech (Nov 2011 - Present), Working as Freelance Web Developer
+XXXXXX Solutions Pvt Ltd (Aug 2009 - Oct 2011), Worked as Web Application Developer
+Software Skill Set
+Languages: PHP, Java
+Database: MySQL
+Web Technologies: HTML, CSS
+Web Server: Apache
+Web GUI Design: Dreamweaver, Photoshop, Swish Max, Firebug
+IDE Tools: Net Beans, Eclipse
+Operating Systems: Win 9x/XP, Win Vista, Win 7
+Web Hosting Control Panel: CPanel
+Desktop FTP Client: Filezilla
+Content Management Systems / Framework: Joomla, Wordpress Codeigniter
+Mobile Technology: Android
+Projects worked on
+Project Name: XXXXX
+Team Size: 4
+Software Platforms: Java, MySQL
+Tools: Netbeans
+
+Project Name: XXXXX Application
+Team Size: 4
+Software Platforms: J2ME, Photoshop CS5
+Tools: Sun Wireless Toolkit
+
+Project Name: XXXX
+Team Size: 6
+Software Platform: Java, PHP
+Tools: Eclips
+
+Role / Responsibilities:
+Building an inventory management and invoice generation application.
+Learning and Using Netbeans.
+Designing UI while achieving Customer/user Friendliness.
+Implementing the project Design, Development and Deployment.
+Testing the application and redesigning the User Interface.
+Editing images and updating the content.
+Uploading and Updating files on server.
+Testing Wordpress plugins, Joomla Extensions.
+Creating custom PHP form.
+Documenting the portal.
+Developing Flash objects.
+Embedding music in the portal.
+Creating custom Area and Stamp duty calculators.
+Creating Flash animation for the Contact Us Page.
+Also creating animations for advertisement of the portal.
+Social Media Integration.
+Embedding Google translate.
+Achievments
+Achieved the target successfully with 'Excellent' remark from Client.
+Achieved the 'Best Performer' award form company.
+Education
+B.E. (Information Science) XXXXX University, 2010, 86.76%
+H.S.C. (Science) XXXX Department of Pre-University Education, 2006, 73.3%
+S.S.C. XXXXX Secondary Education Examination Board, 2004, 91.6%
+Personal Skills
+Adaptable
+Creative
+Cooperative
+Dedicated
+Determined
+Energetic
+Organized
+Responsible
+Versatile
+Personal Information
+Date of Birth:
+Languages known:
+Address:
+Interests:

@@ -1,0 +1,81 @@
+Geoffrey M. Price
+Software Engineer,
+9402 Mandarin Circle, Apt 201B,
+Sunnyvale, California 94085
+Sometown, CA 90307
+Home: 408.555.8185 | gmprice@techmail.com
+Distributed & Parallel Systems  |  Scrum & Agile Methodologies  |  Mobile Application Development
+
+Detail-oriented programmer and architect with 8+ years’ success devising innovative and tailored solutions to meet ever-changing business requirements within diverse industries. Advanced skill with leading-edge programming tools complemented by proven ability to assimilate and rapidly utilize emerging technologies. Solid mathematical knowledge with experience developing comprehensive algorithms and data-processing logic. Technical proficiencies include…
+
+Environments
+
+Windows, UNIX, Linux (RedHat, Ubuntu), Java Enterprise Edition
+
+Programming
+
+C/C++/C#, HTML5, ASP.NET, Java, JavaScript, JQuery, VBScript, T-SQL, MySQL, UML, XML, Perl, PHP, MATLAB, Simulink, Objective C
+
+Development
+
+Object-oriented Design (OOD), Agile Development, Project Management, Solutions Architecture, Technical Documentation, Quality Assurance
+
+Professional Experience
+
+SOFTWARE ENGINEER / SOLUTIONS ARCHITECT, 10/2012 to Present
+TradeCORE Solutions - San Jose, California
+Develop, maintain, and upgrade cutting-edge financial-industry software. Coordinate design and implementation of applications, collaborating with project managers, engineering teams, and client representatives to ensure on-time completion of project deliverables. Provide technical leadership to Junior Engineers, developing overall project architecture. Design Web applications and maintain content for .NET-based systems.
+
+Selected projects include…
+
+	TradeCORE Pro: Developed and supported flagship financial trading application used to facilitate order and cash generation, account balancing, order history tracking, portfolio holdings management, and security fundamentals tracking across a corporate-wide network.
+
+
+	Designed server-side components and created servlets and stored procedures; reduced server load 12%.
+
+
+	Spearheaded creation of cross-platform interface, seamlessly merging application across UNIX- and Windows-based systems.
+
+
+	ContentCORE Server: Spearheaded development of XML content distribution server enabling real-time peer-to-peer connections using JMS and TCP protocols.
+
+
+	Eliminated costly data loss by implementing message redundancy logic within peer-to-peer system, significantly enhancing audit performance.
+
+
+	Managed ongoing enhancements, including guaranteed message delivery and connection load balancing tominimize operating costs and improve functionality.
+
+SOFTWARE ENGINEER, 4/2006 to 10/2012
+Magellan Productivity Systems, Inc. - San Mateo, California
+Within a collaborative development environment, designed business systems for clients from diverse industries, including healthcare, finance, banking, retail, and human service. Engineered customized features and modules for new applications; devised enhancements and updates for existing application suites. Conducted detailed testing throughout life cycle and resolved system issues. Authored system and design documentation.
+
+Selected projects include…
+
+	Quartermaster Online Banking Engine: Designed and launched key interfaces for a Web-based banking tool for regional financial institution. Coordinated with security specialists, compliance teams, and project managers throughout development life cycle.
+
+
+	Leveraged advanced knowledge of ASP.NET to optimize login page; eliminated 15% of code while enhancing overall functionality and speed.
+
+
+	U-Win Converter: Played key role in developing, launching, and enhancing flagship product. Coded data migration logic to ensure cross-platform compatibility.
+
+
+	Created module to enable full integration with Microsoft Office, which simplified functionality for end users with limited knowledge of databases.
+
+
+	SEXTANT HR Suite: Charged with coding, testing, and integrating enhanced Web-based time clock / timesheet reporting functions for HRIS system designed for small- to mid-sized companies. Created login, interface, and SQL-based storage and reporting tools.
+
+Education & Credentials
+
+ 
+
+Bachelor of Science in Computer Science, minor in Mathematics, 2001
+Regis University, Denver, Colorado
+Professional Certifications
+Microsoft Certified Professional Developer (MCPD)
+Microsoft Certified Solutions Developer (MCSD)
+Adobe Certified Expert (ACE) for Developers
+Certified Secure Software Lifecycle Professional (CSSLP)
+Google Apps for Business Certified Deployment Specialist (CDS)
+C Programming Language Certified Associate (CLA)
+

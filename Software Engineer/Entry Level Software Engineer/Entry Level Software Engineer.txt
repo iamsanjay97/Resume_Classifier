@@ -1,0 +1,95 @@
+Targeting an Internship or Entry-Level Opportunity in...
+
+Software Engineering
+
+
+	Upcoming BSSE graduate offering a strong foundation in software engineering and programming principles across multiple platforms.
+
+
+	Experienced in object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks.
+
+
+	Quickly learn and master new technologies; successful working in both team and self-directed settings.
+
+Education
+
+ABC COLLEGE -- Sometown, NY
+Pursuing Bachelor of Science in Software Engineering (BSSE), 108/120 credits completed
+
+
+	Academic Honors: ABC College Program Achievement Citation (2011), Dean’s List (3 semesters)
+
+
+	Senior Software Engineering Capstone Design Project (in progress):
+
+
+	Project Scope: Currently working as part of a five-member team on next-generation rollout of robot control software for DEF Company, a technology research company specializing in robotics. Analyzed functional requirements, developed code and currently testing software applications.
+
+
+	Tools: Visual Studio .Net, C# and ASP.Net
+
+Courses Completed:
+
+
+	Java Programming & Data Structures
+
+
+	Wireless Mobile Software Engineering
+
+
+	Object-Oriented Design
+
+
+	Database Management Systems
+
+
+	Information Security
+
+
+	Assembly Language Programming
+
+
+	Computer Organization and Architecture
+
+
+	Software Engineering Process Management
+
+
+	Enterprise Software Overview
+
+
+	Software Quality Testing
+
+
+	Network Security
+
+
+	Distributed OS
+
+
+	Human Computer Interface
+
+
+	Bioinformatics
+
+DEF TECHNOLOGY INSTITUTE -- Sometown, NY
+Associate of Science in Computer Science, May 2009
+
+Work Experience
+
+ABC COLLEGE -- Sometown, NY                                   
+Help Desk Technician, October 2011 to Present
+
+
+	Provide networking and desktop support, account maintenance and printing assistance to students and faculty. Troubleshoot and resolve complex technology problems as the “go-to” person for IT issues.
+
+GHI COMPANY & JKL COMPANY -- Sometown, NY          
+Barista, 2009 to 2010 (seasonal)
+
+
+	Excelled within service-oriented positions (concurrent with college studies), delivering premium customer service and attracting repeat customers.
+
+Technology Summary
+
+Visual Studio .Net, Visual Basic 6, C#, ASP.Net, C, C++, Java, .?Net, XML/HTML, JavaScript, Ajax, CSS, Windows, Linux, Unix, MS Office Suite
+

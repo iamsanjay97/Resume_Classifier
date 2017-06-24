@@ -1,0 +1,48 @@
+Linux System Administrator
+Linux System Administrator
+
+Nagpur, Maharashtra
+Looking for a long term position as a Linux System Administrator in a dynamic environment that encourages 
+knowledge and excellence with the opportunity to work on latest technologies involving different projects.
+Work Experience
+Linux System Administrator
+Dada International Global IT Support As a Linux System Administrator - Nagpur, Maharashtra
+August 2015 to Present
+Around 2 years of experience as a From Aug 2015 To Present 
+Linux System Administrator. 
+• Experience in Data Center Environment Where I perform - 
+& Virtualization. • Regular Linux system administrator activities. 
+• Experience in Implementation & • Installation and Configuration of Operating Systems. 
+Administration of Web Server (Apache, • Controlling users & groups management. 
+Tomcat), Mail Server (Postfix) . • Worked on Virtualization, created Linux & Windows guest 
+• Worked on NAS and Knowledge of SAN. machine using VMware, Oracle Virtual Box. 
+• Network troubleshooting skills with • Created and Configured file system i.e. EXT2, EXT3, NTFS, FAT32. 
+general understanding of Switches and • Controlling access files with ACLs & manage SELinux security. 
+Routers. • Installed & configure DNS server. 
+• Experience in Installation, Configuration, • Managing File system & Logical Volume (LVM) 
+Monitoring, Maintenance, Performance • I have worked on Apache Web Server and postfix / sendmail 
+Tuning and System Security Email Server. 
+implementation for Linux and Windows • Installed and configured Apache Web server for shared and environment. dedicated webhosting servers. Provide security using SSL support 
+• Worked on Virtualization using and Protected Directory using HTACCESS. 
+Oracle Virtual Box, VMware. • Installed & configure VSFTPD server based on SSL & SSH. 
+• Excellent Analytical, Troubleshooting & • Worked on NFS & SAMBA server as a sharing tools
+Education
+B.E in Computer Technology in Computer Technology
+RTMNU Nagpur University Nagpur, Maharashtra
+Skills
+Redhat Linux (2 years)
+Additional Information
+Problem Solving Skills • Limiting network communication using IPTABLES. 
+• Experience of Supporting 24x7 • Servers Performance Monitoring using Scripts and tool like 
+Operations Nagios. 
+• Configured and managed NIS for Centralized Authentication. 
+• Installed and configured MYSQL Server, assigning privileges to 
+ 
+Technical Skills 
+• Hardware - Blade Server (SUN Netra XI, SUN Fire V120) 
+• OS - Red Hat Linux 5.4, 5.5, 6.4, Ubuntu 14.4, 16.4, Windows Server 2003, Windows XP, Windows 7. 
+• Software -IIS, Apache, Samba, Postfix, Squirrel mail, Oracle,Tomcat, LVM, Nagios. 
+• Protocols - HTTP, HTTPS, FTP, FTPS, SSH, SSL, DNS, NFS, NIS, 
+SMTP, IMAP, POP3. 
+• Programming/Scripting Languages 
+Shell Scripting / BASH: Beginner, C: Basic Knowledge.

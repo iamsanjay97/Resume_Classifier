@@ -1,0 +1,101 @@
+peter.williams@barelyenough.org
+720.280.2436
+http://barelyenough.org
+
+Full stack software engineer with special expertise in APIs and web services. Comfortable implementing great user experiences, managing server side scalability and concurrency, designing database schemas and batch processing jobs, and deploying and admining servers. Experienced in building sophisticated distributed systems using REST/hypermedia web APIs (SOA). Product focused and deeply passionate about solving interesting problems.
+
+I actively contribute to open source projects (see my GitHub profile) because it is a way to develop great software that benefits both the contributor and the community. I blog at barelyenough.org.
+
+Skills
+
+Web application development
+Web APIs/services
+SOA/distributed systems
+Open source
+Big data
+Experience
+
+Senior Software Engineer
+
+Comverge, October 2013 – present
+
+Design and implementation of next generation automated demand response system.
+Design and documentation of REST APIs for collection and retrieval of high volume IOT telemetry data.
+Cassandra data model design for high volume IOT telemetry data.
+Administration of production Cassandra cluster.
+Use of Spark for batch processing and ad-hoc analytics
+Principal Software Engineer
+
+MapQuest, January 2013 – September 2013
+
+Led implementation of location based advertising on mobile web app.
+Developed initial phase of trip planning features for the mapquest.com.
+Design of multiple web APIs.
+Participate in strategic technology planning.
+API Badass
+
+GitHub, October 2012 – November 2012
+
+Participated in API design for several products.
+Software Architect/Team Lead
+
+OpenLogic, August 2009 – September 2012
+
+Designed REST APIs that allow sophisticated, effective and low cost application integration.
+Oversaw feature implementation across several products to ensure alignment with broader architectural and business initiatives.
+Led development of new open PaaS cloud solution from inception to successful release.
+Represented Openlogic as a significant contributor to the development of the SPDX standard.
+Building shared vision of architectural initiatives for multiple products.
+SPDX RDF Vocabulary Specification Editor
+
+SPDX, September 2010 – August 2012
+
+Created and edited the OWL definition of the SPDX RDF vocabulary.
+Software Developer (contract)
+
+Brightkite, August 2008 – August 2009
+
+Designed and implemented APIs to support mobile applications.
+Integrated external functionality using web services.
+Software Developer (contract)
+
+ID Watchdog, March 2009 – June 2009
+
+Worked closely with finance and ops teams to elicit and clarify requirements.
+Maintained and enhanced the existing CRM and batch processing application.
+Senior Software Engineer
+
+Absolute Performance, November 2006 – May 2008
+
+Led service oriented re-architecture effort which resulted in a highly maintainable and scalable system.
+Designed and documented REST/HTTP APIs, including JSON data formats and API versioning strategy.
+Instrumental in implementation and deployment of a multi-tenant software as a service (SaaS).
+Senior Web Developer
+
+WebRoot Software, May 2006 – November 2006
+
+Improved quality processes, including introduction of automated testing.
+Managed external contractors, including code/design reviews.
+Technical Lead
+
+Certified Financial Planners Board of Standards, November 2005 – May 2006
+
+Instituted improvements in quality practices.
+Mentored team in the use of Ruby.
+Worked with stakeholders to streamline business processes.
+Senior Software Engineer
+
+DigitalGlobe, September 2004 – October 2005
+
+Participated in design and implementation of highly configurable work flow engine.
+Created dashboard to track and manage order fulfillment.
+Software Architect
+
+GE Energy, October 1998 – August 2004
+
+Designed and implemented web application server.
+Evangelized the use of web services as a way to implement application integrations.
+Developed REST/HTTP APIs for exposing geospatial applications.
+Buzzwords
+
+Agile, Cassandra, CoffeeScript, CouchDB, CSS, DSL, HTML, HTTP, Java, Javascript, JSON, Lisp, MySQL, Oracle, PostgreSQL, Redis, REST, Ruby on Rails, shell scripting, Scala, Scrum, Spark, SQLite, SOA, WebArch, web services, WOA, XHTML, XML

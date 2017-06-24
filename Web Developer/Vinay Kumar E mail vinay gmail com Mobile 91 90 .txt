@@ -1,0 +1,83 @@
+Vinay Kumar
+E-mail: vinay..........@gmail.com
+Mobile: +91-90..........
+
+Experience Summary
+
+-3 Years experience in Android Application development.
+-Worked on 12+ successfully delivered projects for reputed clients - Video Alive Wallpaper, Yellow Flag, Nova Caf?, Taxi-booking, Spinner's Club, Truth and Dare ,All Grown Up, Beer Pong and 
+
+currently working on.
+-Expertise in developing Internet/Intranet Applications with Web Services (json.xml).
+
+Work Experience
+
+Company: ABC......
+
+Work Duration: Jun 23, 2010 - Till date
+Location: MUMBAI
+Job Title: Assistant Consultant
+
+Key Projects
+
+Project#1: Video Alive Wallpaper
+Description: Video Alive Wallpaper is a unique application in android market. Video Alive Wallpaper set the video (any video available in your device) as wallpaper. Its Installs: 100,000.
+
+Project#2: Truth and Dare Game
+
+Description: Truth & Dare is a fun party game for a group of single and multiple players of all ages. Whether you are in elementary school or college, this game is fun for everybody. You'll 
+
+love this tantalizing taste of game. You can play it with family, friends & children. You can reveal the truths of your friends. You will laugh together when your friends will do the funny 
+
+'dare'.
+
+Project#3: Wasted Beer Pong: Wasted Beer Pong is a game in which players select random cards and have to do the task which he/she got from selected card.
+
+Project#4: All Grown Up: All Grown Up application is period tracker application for women. User can set period date, date of birth and notes in calendar. User can track periods days, fertile 
+
+days, and heavy flow days by a colorful grid calendar. In this app user profile has next period date, remaning day to next period, fertile days starting date, date of birth and many 
+
+information of user .User can save all data in his account on server and retrieve.
+
+Project#5: Yellow Flag
+
+Description: Yellow Flag is the first dedicated social football application integrated across multiple platforms - including mobile (iPhone/Android) and desktop applications. Using Yellow 
+
+Flag, fans can socialize, track and comment on college and pro football games in real time - from anywhere in the world.
+
+Project#6: Taxi-booking
+
+Description: Using this app you can search and book taxi at any location. You can find nearest taxi location on map and save 5 favorite location in your app for further use
+
+Languages
+
+-Core Java, C, CPP
+
+Development Tools( IDE)
+
+-Eclipse 3.x
+
+Utility Frameworks
+
+-JSON, GSON
+
+Markup Languages
+
+-HTML, XML , CSS, JavaScript
+
+Database Explored
+
+-Sqlite
+
+Operating Systems
+
+MS-Windows 95/98/NT/2000/7.
+
+Education
+
+MCA (70%) from P..... University
+BSC (69.81%) from CCS University
+10+2 (56%) from UP Board of School Education
+10th (54%) from UP Board of School Education.
+
+Disclaimer: Here I certify that information mentioned above is true to best of my knowledge.

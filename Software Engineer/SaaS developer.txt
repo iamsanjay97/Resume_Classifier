@@ -1,0 +1,63 @@
+NIRAV PATEL
+ 
+ 
+ 
+SUMMARY
+Software Engineer with 2+ years of industry and 5+ years of academic experience in object oriented development using Java, C++, RDBMS such as SQL and other enterprise technologies.
+Deep understanding of data structure and algorithms and ability to quickly learn new technologies.
+WORK EXPERIENCE
+SaaS Software Developer, Stratify Inc., Iron Mountain Co., Mountain View, CA (Sep 18 - present)
+Project: highly reliable, available and scalable web-based e-discovery solution for law firms
+Objective: Enable attorneys to quickly review, understand and process large document sets.
+Technologies: Grails, groovy, Java, J2EE, JSecurity, Postgres, lucene, Spring-batch and some third party tools for data extraction.
+Deliverables:
+Followed agile software development methodology (Srcum) to iteratively provide usable software solution.
+Using grails/groovy framework with postgres as backend, lucene for search and indexing and spring-batch for processing of large data sets in asynchronous manner.
+Evaluated some third party tools for data extraction for their performance review using visual c++ and windows api.
+Software Developer, EBay Inc., San Jose, (Jun 07 – Dec 07)
+Project: ‘Case Monitoring Tools’ for Customer Support group
+Objective: Help other security tools to identify and take actions against any fraud or illegal activity
+Technology: Java, J2EE, XML, XSLT and PL/SQL
+Deliverables:
+Simplified daily manual tasks of querying database at Customer and Item level
+Solved various production bugs which belong to Trust and Safety team
+ 
+Software/Web Programmer, Triguns Pvt Ltd, India (Apr 05 – Jul 06.)
+Noteworthy Credits:
+Successfully developed ‘Regional Transport Control System’ for a reputed client
+Involved in requirement elicitation, analysis and conflicts resolving through client’s interaction
+Actively involved in developing releases of Inventory module for medium-scale retail store
+Technology: Java, MySql, JSP and Servlets
+ 
+Vocational Training, ESSAR Steal Pvt. Ltd, India, Jan 04 – Jun 04
+Project: ‘Inter Office Communication System’ for Human Resource Department
+Technology: Java, JSP and Apache Tomcat Server and My SQL database
+Deliverables:
+Instant messenger, calendar and message-board to achieve better and faster communication
+TECHNICAL SKILLS
+ 
+Languages: Java, C, C++, SQL, JSP, JSF, Servlet, J2EE, EJB3.0, Spring, Grails, Groovy, Lucene, JSON, REST, SOA, Design Patterns, UML Modeling, HTML, CSS, XML, XSL, JavaScript, Perl, Shell script , TCP/IP, SMTP
+Tools & IDE: Eclipse3.2, NetBeans5.5, Microsoft Visual Studio, J unit, Rational Clear Case and Clear Quest, CVS, JIRA, Confluence, Quick Base, Fish Eye, Selenium
+Database: RDBMS, JDBC, Hibernate, MS SQL Server 2000, MySQL 5/6, Postgres, Oracle
+Servers: J Boss, Apache Geronimo, Apache Tomcat, Jetty, IIS.
+Platform: Windows 9X/XP/2000/NT, UNIX, Ubuntu Linux, Mac
+ 
+EDUCATION
+M.S. Software Engineering: - San Jose State University, San Jose, CA, US, GPA 3.5/4, Aug 08B.S. Computer Engineering: - Sardar Vallabhbhai Institute of Technology, India, GPA-3.3/4.0, Jul 04
+ 
+COURSEWORK
+Object-oriented programming and design, Software System Engineering, Enterprise Distributed objects, Enterprise Software Components, Software Testing and Quality Assurance, Database Design, Data Structure and Algorithm, XML in e-business, Operating System, Network operating system.
+ 
+ACEDEMIC PROJECTS
+Movie Recommendation Website (Web Personalization)
+Developed fusion of content based and user-based collaborative filtering algorithms which generates the movie recommendations for users based on their ratings patterns and genre preferences.
+Implemented a prototype of such website using EJB3.0, Jboss, MySql, Hibernate, JSF, MVC pattern and J2EE architecture.
+Social Networking Website (Web2.0 Application)
+Implemented backend APIs for n-tier web2.0 application similar to face book and orkut using J2EE and EJB3.0 technologies.
+Also Developed Restful APIs using xml and Json and Junit test cases for unit testing.
+Developed a backend APIs and front-end for ‘Online Music Store’ using Java, JSP and My Sql.
+UML and Stability modeling: - Object oriented modeling of project ‘World Cup Cricket Organization’ using UML and Stability modeling with class diagrams, use cases, activity diagrams and sequence diagrams.
+Text Pad: - Developed a text pad using C++ and C graphics.
+Card Game: - Developed a Flash Game using C and C graphics.
+AVL Tree (Testing Project): - Developed AVL tree using Java and tested its functionality using various testing methods like black-box, white-box testing (using JUnit), integration and regression testing.
+ 

@@ -1,0 +1,41 @@
+QA Tester/Analyst - AT&T Services
+
+Austin
+• Over 7 years of Software Quality Assurance (QA) experience testing Data Warehouse, Database Web, and Client-Server Systems and Applications for Banking, Insurance, Financial, Healthcare, and Retail Industries. 
+• Experience in Defining Testing Methodologies; creating Test Plans and Test Cases, Verifying and Validating Application Software and Documentation based on standards for Software Development and effective QA implementation in all phases of Software Development Life Cycle (SDLC) 
+• Experience in using automated like QTP for testing Client / Server and Web based applications. 
+• Developed Test Strategy, Test Plan, Test Cases (Functional and Non-Functional) Test Scenarios from System Requirement Specifications according to the Business requirement. 
+• Possess excellent skills in GUI Testing, Functional Testing, Regression Testing, Stress Testing, Integration Testing, System Testing, Smoke Testing, User Acceptance Test (UAT), Database Testing, Load / Performance Testing and XML Application using automated tools. 
+• Solid understanding and experience in White box and Black box testing. 
+• Expertise in Requirements Analysis, Functional Decomposition, System Analysis, Use Case Design. 
+• Used Quality Center for defect reporting and tracking and storing the client requirements and managing test plans, create release notes. 
+• Worked on Agile/Scrum and Waterfall methodology for software Development Life Cycle (SDLC) 
+• Experience in writing complex SQL Server 2000/ […] Stored Procedures, Views, Function, and Triggers in SQL Server Management Studio using T-SQL Programming. 
+• Experience in testing and writing SQL 
+• Prepared Traceability Matrix for Test Coverage using HP ALM 11.5
+Work Experience
+QA Tester/Analyst
+AT&T Services
+May 2015 to Present
+Responsibilities: 
+• Work with Story Documents, conduct impact analysis of requirements, Design and Review Test Cases, System Testing and Support. 
+• Involve in Daily Scrum meetings in updating and addressing issues, if any. 
+• Involved in System testing on the items available in Test by executing the test cases in Squids along with Defect Validation and review Meetings 
+• Used Quality Center for Defect Reporting and Tracking and also for managing the entire test documentation like Requirements Management, Test Case Designing, and Test Execution & Generation of the required reports. Participated in weekly status meetings and interacted with the developer team to discuss technical issues. 
+• Performed Regression testing on modified builds to ensure nothing is broken with the fix. 
+• Involved in preparing Automation scripts for Regression testers to ensure functionality is covered. 
+• Created and executed data driven test scripts in QTP. 
+• Preparing the test data and test cases for UAT users and supporting them during UAT. 
+• Involved in team meeting with managers in deciding pending items to move into next sprint. 
+• Reviewing and updating test cases based on latest changes in requirements 
+ 
+Environment: Windows XP and 7, HP ALM 11.5, Oracle SQL DEVELOPER 4.0, Microsoft Office Suite, TOAD for oracle 12.8.
+Additional Information
+TECHNICAL SKILLS: 
+Testing Tools […] HP ALM 10.5 
+Operating Systems Windows Server […] NT 4.0, Win XP Prof/Standard, Win 98. 
+Databases Oracle […] MS SQL Server […] DB2, Teradata, TOAD for oracle 12.8 
+Languages SQL, PL - SQL 
+Tools ORACLE SQL DEVELOPER 4.0, TERADATA SQL ASSISTANT 14.0, MEDITECH 4.0, MICROSOFT SHAREPOINT, ERWIN 9.2, MS OFFICE SUITE, LYNC 
+File Systems Windows […] 
+Testing Tools QTP 10.0, Quality Center 10.0, Test Director, HP ALM11.5

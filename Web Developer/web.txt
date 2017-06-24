@@ -1,0 +1,86 @@
+Ranjit ******
+Email id: pranjiXXXXXXXX86@gmail.com
+Mobile: +91 98XXXXXXXXX
+Career Objective
+To become a successful professional in a highly competitive technological world where performance is rewarded with new challenging responsibilities and to serve a reputed growth oriented industry in the field of Design, Development and Maintenance.
+Technical Skills
+Operating Systems: Windows XP, Linux Fedora 9
+Languages: PHP, C
+Projects Description
+Project - I:
+
+Project Name: XXXXXXXX Office (php Web Application)
+Languages: PHP
+Backend: MYSQL
+
+Description:
+This project is a content management website developed for a thulasijan.
+Client can be updated their FrontPage content and packages. Open php chat has been integrated with this
+http://www.office.xxxxxxxx.in/
+
+Project - II:
+
+Project Name: xxxxxxxxxxBahamas (Web Application)
+Languages: PHP
+Backend: MYSQL
+
+Description:
+This project is a content management system website developed for a Hotel in Interval Bahamas.
+Client can be updated their rent and events of Bahamas.
+http://www.xxxxxxxxbahamas.com/
+
+Project - III:
+
+Project Name: xxxxxxxenfrench (Web Application)
+Languages: PHP
+Backend: MYSQL
+
+Description:
+
+It is a online teaching website. The main feature of this website are:
+payment gateway (Paypal ipn)
+Manage student and teacher (for admin)
+Tickets controls
+Email control
+Student, admin and teacher control panel.
+http://www.xxxxxxxokenfrench.com
+
+Project - IV:
+
+Project Name: SairkXXXXXX (Wordpress Framework)
+Languages: PHP
+Backend: MYSQL
+
+Description:
+It is a compony profile website which has created using wordpress also it is used for blogging.
+http://www.XXXXXXnfotech.com
+
+Project - V:
+
+Project Name: XXXXX (Wordpress Framework)
+Languages: PHP
+Backend: MYSQL
+
+Description:
+It is a recipe website for sairkinfotech.
+They have post their new recipe and also an administrator can change all the pages and its content periodically.
+http://XXXX.sairkinfotech.com/
+
+Project - VI:
+
+Project Name: FaceExposure (Wordpress)
+Languages: PHP
+Backend: MYSQL
+
+Description:
+FaceExposure is a social media site for all ages to capture their greatest facial expressions.
+The site provides individual the opportunity to express themselves in a way that covers a wide variety of topics and current events.
+This is also a site for sharing your photos with your friends and family.
+So stay close with your loved ones, capture memories and express yourself with FaceExposure.
+http://optimaww.com/faceexposure/
+Personal Qualities
+Being a judge of myself as a hardworking, ambitious and a capable team player.
+Personal Details
+Dare Of Birth:
+Languages:
+Address

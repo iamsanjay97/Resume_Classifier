@@ -1,0 +1,54 @@
+NEAL ANDREWS
+
+555 America Drive  |  Chicago, IL 60601  |  (000) 000-0000  |  nealandrews@dice.com
+
+Talented technical Project Manager with over 8 years of demonstrated expertise completing projects on time and within budget
+
+SUMMARY OF QUALIFICATIONS
+
+Adept at overseeing all facets of project lifecycle, including initiation and planning; change, risk, and issue management; and guiding QA teams.
+Outstanding communication skills. Able to successfully build strong working relationships with coworkers and clientele, while ensuring cooperation among company departments.
+Excellent multitasker; able to efficiently plan and prioritize projects.
+Strong technical and business management skills.
+EXPERIENCE
+
+ABC Company, New York, NY	
+02/06 – Current
+Senior Technical Project Manager for $122M, 23-store company with over 125 employees.	
+Oversee all technical aspects of retail-store build-out, including overseeing creation of schedules, documents, and guides for contractors, vendors, and consultants.
+Act as sole point of contact for end users during router/switch/PBX and POS installation, and troubleshoot problems. Document and report findings to facilitate problem resolution.
+Coordinate all client policies and procedures specific to ABC Company Business and Retail Guidelines.
+Manage multiple vendors and coordinate with building representatives and facilities management on store-by-store basis.
+Create and maintain project schedule and database documentation, and act as liaison between all departments.
+DEF Corporation, Los Angeles, CA	
+02/05 – 01/06
+Technical Project Manager and Senior Business Systems Analyst for $2.2B cell phone company with over 430 employees.	
+Played key role in creating documentation and technical guides for end users.
+Facilitated User Acceptance Testing (UAT), ensuring that all errors were tracked and reported to development and management teams.
+Acted as single point of contact for multiple vendors, business units, and Information Technology partners during integration of Digital Tower Application (DTA) installation, administering schedules and communicating risks.
+Assisted with SOX 404 compliance, resulting in successful post-migration audit.
+Ran weekly meetings, helping to facilitate communication and maximize productivity.
+JKL Company, New York, NY	
+05/03 – 02/05
+Project Manager for New York City hospital.	
+Liaison among departments and managers, acting as sole point of contact to integrate managed workstation environment with minimal downtime.
+Coordinated work of multiple teams creating desktop deployment for NUHOS servers in downtown Manhattan.
+Created and reported daily status of projects, including in-house and on-site analysis and resolution of problems during deployments. Ensured maintenance of HIPPA compliance.
+MNO Company, New York, NY	
+09/00 – 05/03
+IT Manager for New York City-based company with 25 employees.	
+Oversaw management of daily IT operations for start-up company, including all in-house hardware, software, and technical support for 25-user network.
+Responsible for telecommunications systems, setup of Local Area Network (LAN), and configuration of workstations.
+Managed implementation of hardware/software upgrades. Maintained T-1, routers, and PBX.
+TECHNICAL SKILLS
+Applications:	MS Office/Project/Access, Visio/Info Path, Lotus Notes, Agile, Red Hat, HP Reporter, Crystal Reports, ASP.NET
+OS:	Windows NT/2000/XP, Linux, Solaris, UNIX, Debian
+Databases:	Oracle 8i, MySQL
+Tools:	NetQos, HP Openview Service Desk, Softricity, Mercury IT Governance/Quality Center/Test Director, Cisco IP Telephony Seminar, SCM tools
+Languages:	SQL, HTML, XML
+Networking:	SMTP/ Mail (qmail, postfix), DNS, Web Server (Apache), System and Network, SSL, TCP/IP, Network Security
+EDUCATION
+Masters in Information Systems Management, 2000
+New York University, New York, NY
+Bachelors in Computer Science, American University, 1998
+Washington, D.C.
